@@ -86,7 +86,7 @@ footer:
  #     url: "https://instagram.com/"
 
 defaults:
-   _posts
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -99,7 +99,7 @@ defaults:
       related: true
       show_date: true
       classes: wide
-   _pages
+  # _pages
   - scope:
       path: "_pages"
       type: pages
