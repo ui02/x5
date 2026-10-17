@@ -1,0 +1,98 @@
+
+/* Personal archive timeline */
+
+.archive-timeline {
+  position: relative;
+  margin: 2rem 0;
+  padding-left: 1.6rem;
+}
+
+.archive-timeline__item {
+  position: relative;
+  padding: 0 0 2.5rem 1.5rem;
+  border-left: 2px solid #e3e6e3;
+}
+
+.archive-timeline__item:last-child {
+  border-left-color: transparent;
+  padding-bottom: 0.5rem;
+}
+
+.archive-timeline__item::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 0.35rem;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #8b9c91;
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px #8b9c91;
+}
+
+.archive-timeline__date {
+  margin: 0 0 0.6rem;
+  color: #777;
+  font-size: 0.8rem;
+  letter-spacing: 0.04em;
+}
+
+.archive-timeline__title {
+  margin: 0 0 0.6rem;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.archive-timeline__body {
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+
+.archive-timeline__body p {
+  margin: 0 0 0.8rem;
+}
+
+.archive-timeline__media {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-top: 1rem;
+}
+
+.archive-timeline__media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 480px;
+  border-radius: 6px;
+}
+
+.archive-timeline__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1rem;
+}
+
+.archive-timeline__tag {
+  padding: 0.15rem 0.55rem;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  color: inherit;
+  font-size: 0.75rem;
+}
+
+@media (max-width: 600px) {
+  .archive-timeline {
+    padding-left: 0.5rem;
+  }
+
+  .archive-timeline__item {
+    padding-left: 1.1rem;
+  }
+
+  .archive-timeline__media img {
+    max-width: 100%;
+  }
+}
