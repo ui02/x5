@@ -1,10 +1,8 @@
 ---
 title: "放浪記"
-
 date: 2018-01-01
-
 draft: false
-
+permalink: /categories/
 ---
 
 ## 2018
