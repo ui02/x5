@@ -3,6 +3,22 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+覚えておきたい日々の記録や、ちょっとした呟きを残す場所。  
+写真、旅行、趣味のこと、そのとき気になっているものなど。  
+何年も前のことも遡って記したりしてます。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+📷<a href="https://yurilom.tumblr.com/" target="_blank">view</a>
+
+—
+
+A place to keep little things I want to remember from day to day, along with random thoughts and tiny ramblings.  
+My Tumblr blog (<a href="https://yurilom.tumblr.com/" target="_blank">view</a>) started back in more than 10years ago, and after a little scare where it almost got wiped out, I somehow managed to get it back. So this one is now for everyday life and all the little things in between.  
+Games, photos, travels, hobbies, things I’m currently obsessed with… basically, whatever I feel like keeping around.  
+
+—
+
+⚠Attention⚠  
+・全コンテンツ 無断転載／AI学習／複製・複写等 厳禁  
+・Reuploading is prohibited  
+・Using any of my photos for AI training is prohibited
+
