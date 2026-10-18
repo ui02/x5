@@ -8,6 +8,8 @@ toc: true
 toc_label: "On This Page"
 toc_icon: "list"
 toc_sticky: true
+sidebar:
+  nav: "murs"
 ---
 
 ## 2018
