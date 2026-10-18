@@ -1,5 +1,5 @@
 ---
-title: "TAEMIN POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷"
+title: "Love Blossom"
 date: 2025-05-04
 categories:
   - blog
@@ -10,6 +10,7 @@ header:
   image: /assets/images/posts/2025/2025-05-04-love-blossom/thumb.jpg
 published: true
 ---
+## TAEMIN POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷
 
 GW、テミンの愛猫クン＆デンのポップアップがあったので行ってきた！  
 久々の渋谷、日曜で人が多いと嫌だなあと思っていたけど、  
