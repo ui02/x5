@@ -1,5 +1,5 @@
 ---
-title: "MINHO PHOTO EXIBITION 「MEAN:on sight」 ＠メンズパルコ渋谷"
+title: "MEAN:on sight"
 date: 2025-08-10
 categories:
   - blog
@@ -10,6 +10,7 @@ header:
   image: /assets/images/posts/2025/2025-08-10-mean-on-sight/thumb.jpg
 published: true
 ---
+## MINHO PHOTO EXIBITION 「MEAN:on sight」 ＠メンズパルコ渋谷
 
 ちぇみのの写真展にいってきた！  
 お昼頃まで風が強く雨も降ったり止んだりだったので、DEAN&DELUCAでゆっくりしてから向かった。  
