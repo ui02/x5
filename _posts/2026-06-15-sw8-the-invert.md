@@ -1,5 +1,5 @@
 ---
-title: "- The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]＠ベルーナドーム（2026/06/05）"
+title: "The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]＠ベルーナドーム（2026/06/05）"
 
 date: 2026-06-15
 categories:
