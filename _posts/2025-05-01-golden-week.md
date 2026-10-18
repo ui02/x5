@@ -8,7 +8,6 @@ tags:
   - Daily life
 header:
   teaser: /assets/images/posts/2025/2025-05-01-golden-week/thumb.jpg
-  image: /assets/images/posts/2025/2025-05-01-golden-week/thumb.jpg
 gallery:
   - url: /assets/images/posts/2025/2025-05-01-golden-week/IMG_20250429_123652.jpg
     image_path: /assets/images/posts/2025/2025-05-01-golden-week/IMG_20250429_123652.jpg
