@@ -3,9 +3,24 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-author_profile: false
+author_profile: true
 sidebar:
   - title: ""
     image: /assets/images/sidebar.jpg
     text: "MOOD: 無職まっしぐら"
 ---
+<div class="home-random-image">
+  <img id="random-home-image" src="" alt="ランダム表示の写真">
+</div>
+
+<script>
+  const randomImages = [
+    "{{ '/assets/images/random/photo01.jpg' | relative_url }}",
+    "{{ '/assets/images/random/photo02.jpg' | relative_url }}",
+    "{{ '/assets/images/random/photo03.jpg' | relative_url }}"
+  ];
+
+  const randomIndex = Math.floor(Math.random() * randomImages.length);
+  document.getElementById("random-home-image").src =
+    randomImages[randomIndex];
+</script>
