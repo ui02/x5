@@ -35,3 +35,20 @@ $header-font-family: "Yomogi", Arial;
   margin-right: auto;
   border-radius: 12px;
 }
+
+/* トップページのランダム画像 */
+.home-random-image {
+  width: 100%;
+  max-width: 900px;
+  margin: 1.5rem auto 2rem;
+  text-align: center;
+}
+
+.home-random-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 70vh;
+  object-fit: contain;
+  border-radius: 12px;
+}
