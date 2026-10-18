@@ -108,19 +108,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-    # _docs
+  # _pages/murmur
   - scope:
-      path: ""
-      type: docs
+      path: "_pages/murmur"
+      type: pages
     values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      toc_sticky: true
       sidebar:
-        nav: "docs"
+        nav: "murs"
 
 category_archive:
   type: liquid
