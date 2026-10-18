@@ -3,7 +3,8 @@ title: "Murmur"
 layout: single
 permalink: /murmur/
 author_profile: false
-classes: "full"
+sidebar:
+  nav: ""
 ---
 
 日々のちょっとしたつぶやき
