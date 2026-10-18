@@ -32,4 +32,4 @@ gallery1:
 買い出し行ったり、観葉植物の植え替えしたり、  
 めちゃうまイタリアン食べたり、雨でラッキーだったり。  
 
-{% include gallery id="gallery" %}
+{% include gallery id="gallery1" %}
