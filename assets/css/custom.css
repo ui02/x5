@@ -26,3 +26,12 @@ $header-font-family: "Yomogi", Arial;
 .sidebar img {
   border-radius: 12px;
 }
+
+/* サイドバー画像のサイズを小さくする */
+.sidebar img {
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 12px;
+}
