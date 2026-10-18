@@ -9,3 +9,13 @@ $header-font-family: "Yomogi", Arial;
 /* スキンとテーマ本体を読み込む */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+/* サイドバーを常に通常の濃さで表示 */
+.sidebar {
+  opacity: 1;
+}
+
+/* サイドバーの画像の角を丸くする */
+.sidebar img {
+  border-radius: 12px;
+}
