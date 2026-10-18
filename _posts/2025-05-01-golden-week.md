@@ -1,5 +1,5 @@
 ---
-title: "めずらしくしっかり遊んだGW"
+title: "しっかり遊んだGW"
 date: 2025-05-01
 categories:
   - blog
