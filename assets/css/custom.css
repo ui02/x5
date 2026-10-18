@@ -2,9 +2,10 @@
 ---
 @charset "utf-8";
 
-/* Google Fonts */
-$serif: "Yomogi", serif;
-$sans-serif: "Yomogi", sans-serif;
+/* Defaults used in Minimal mistakes */
+$default-sans-serif: "Yomogi", Arial, sans-serif;
+$default-serif: "Yomogi",Georgia, Times, serif;
+$default-monospace: "Yomogi",Monaco, Consolas, "Lucida Console", monospace;
 
 /* テーマ全体の基本フォント */
 $global-font-family: $serif;
