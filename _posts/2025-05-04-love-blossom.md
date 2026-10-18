@@ -1,6 +1,6 @@
 ---
 title: "Love Blossom"
-summary: "POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷（2025/05/04）"
+description: "POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷（2025/05/04）"
 date: 2025-05-04
 categories:
   - blog
