@@ -1,6 +1,5 @@
 ---
-title: "The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]＠ベルーナドーム"
-
+title: "SWⅧ: The Trilogy I - THE INVERT"
 date: 2026-06-15
 categories:
   - blog
@@ -12,6 +11,7 @@ header:
 published: true
 
 ---
+## The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]＠ベルーナドーム
 
 6/5(金)、SHINeeのライブ「- The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]」に行ってきた！  
 4人そろっての日本公演はなんと8年ぶり・・・  
