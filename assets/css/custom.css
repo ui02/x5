@@ -10,32 +10,6 @@ $header-font-family: "Yomogi", Arial;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* サイドバーの透明度変化を無効化 */
-@media (min-width: 64em) {
-  .sidebar {
-    opacity: 1 !important;
-    transition: none !important;
-  }
-
-  .sidebar:hover {
-    opacity: 1 !important;
-  }
-}
-
-/* サイドバー画像の角を丸くする */
-.sidebar img {
-  border-radius: 12px;
-}
-
-/* サイドバー画像のサイズを小さくする */
-.sidebar img {
-  width: 80%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-radius: 12px;
-}
-
 /* トップページのランダム画像 */
 .home-random-image {
   width: 100%;
