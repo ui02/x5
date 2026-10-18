@@ -1,6 +1,7 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 ---
 
 覚えておきたい日々の記録や、ちょっとした呟きを残す場所。  
