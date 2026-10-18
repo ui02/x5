@@ -21,7 +21,6 @@ gallery2:
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg
-gallery3:
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg
@@ -40,8 +39,7 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 １回で入場する人数もちょうどいい感じで、映り込みなく写真撮れてよかった～  
 
 {% include figure popup=true image_path="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg" %}
-{% include gallery id="gallery2" %}
-{% include gallery id="gallery3" %}
+{% include gallery id="gallery2" layout="half" %}
 
 セーブしつつ、いろいろ買ったあと… 久々に新大久保に行ってミナリサムギョプサルを食べた。  
 ミナリはセリのことなんだけど、流行ってるみたいでいろんなところで見る。  
