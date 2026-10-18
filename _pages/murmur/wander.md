@@ -3,6 +3,11 @@ title: "放浪記"
 date: 2018-01-01
 draft: false
 permalink: /murmur/wander/
+author_profile: false
+toc: true
+toc_label: "On This Page"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 ## 2018
