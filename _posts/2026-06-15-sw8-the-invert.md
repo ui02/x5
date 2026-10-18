@@ -8,7 +8,6 @@ tags:
   - SHINee
 header:
   teaser: /assets/images/posts/2026/2026-06-15-sw8-the-invert/thumb.jpg
-  image: /assets/images/posts/2026/2026-06-15-sw8-the-invert/thumb.jpg
 gallery:
   - url: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122246.jpg
     image_path: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122246.jpg
