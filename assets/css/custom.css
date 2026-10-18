@@ -2,16 +2,9 @@
 ---
 @charset "utf-8";
 
-/* Defaults used in Minimal mistakes */
-$default-sans-serif: "Yomogi", Arial, sans-serif;
-$default-serif: "Yomogi",Georgia, Times, serif;
-$default-monospace: "Yomogi",Monaco, Consolas, "Lucida Console", monospace;
-
-/* テーマ全体の基本フォント */
-$global-font-family: $serif;
-
-/* 見出し用フォント */
-$header-font-family: $sans-serif;
+/* フォント設定 */
+$global-font-family: "Yomogi", Arial;
+$header-font-family: "Yomogi", Arial;
 
 /* スキンとテーマ本体を読み込む */
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
