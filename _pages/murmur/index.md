@@ -4,8 +4,6 @@ layout: single
 permalink: /murmur/
 author_profile: false
 classes: wide
-sidebar:
-  nav: "murs"
 ---
 
 日々のちょっとしたつぶやき
