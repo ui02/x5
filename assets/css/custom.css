@@ -7,11 +7,11 @@
   font-weight: 400;
 }
 
-/* Article titles: Zen Kurenaido */
+/* Article titles: Yusei Magic */
 .page__title,
 .archive__item-title,
 .archive__item-title a {
-  font-family: "Zen Kurenaido", sans-serif;
+  font-family: "Yusei Magic", sans-serif;
   font-weight: 400;
   line-height: 1.6;
 }
@@ -26,11 +26,11 @@
   line-height: 1.9;
 }
 
-/* Headings inside articles: Zen Kurenaido */
+/* Headings inside articles: Yomogi */
 .page__content h2,
 .page__content h3,
 .page__content h4 {
-  font-family: "Zen Kurenaido", sans-serif;
+  font-family: "Yomogi", sans-serif;
   font-weight: 400;
 }
 
