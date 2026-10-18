@@ -5,7 +5,7 @@ permalink: /murmur/
 author_profile: false
 classes: wide
 sidebar:
-  nav: "docs"
+  nav: "murs"
 ---
 
 日々のちょっとしたつぶやき
