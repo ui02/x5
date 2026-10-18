@@ -1,5 +1,5 @@
 ---
-title: "POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷"
+title: "TAEMIN POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷"
 date: 2025-05-04
 categories:
   - blog
