@@ -1,6 +1,7 @@
 ---
 title: "Love Blossom"
 date: 2025-05-04
+published: true
 categories:
   - Blog
 tags:
@@ -8,7 +9,27 @@ tags:
 header:
   teaser: /assets/images/posts/2025/2025-05-04-love-blossom/thumb.jpg
   image: /assets/images/posts/2025/2025-05-04-love-blossom/thumb.jpg
-published: true
+gallery1:
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg
+gallery2:
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg
+gallery3:
+  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg
+    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg
 ---
 ## TAEMIN POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷
 
@@ -17,48 +38,15 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 宮下パークのカフェが意外と落ち着いた感じでよかった。  
 同じビルにスタンドオイルも入ってて、ぶらっと鞄を見たりした。  
 
-<div class="image-gallery">
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg' | relative_url }}">
-  </a>
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg' | relative_url }}">
-  </a>
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg' | relative_url }}">
-  </a>
-</div>
+{% include gallery id="gallery1" %}
 
 ポップアップは14:00入場の回でチケットをとっていて、13:30には列ができ始める感じだった。  
 １回で入場する人数もちょうどいい感じで、映り込みなく写真撮れてよかった～  
 
-<div class="image-gallery">
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg' | relative_url }}">
-    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg' | relative_url }}">
-  </a>
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }}">
-      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }}">
-  </a>
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }}">
-      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }}">
-  </a>
-</div>
-
-<div class="image-gallery">
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }}">
-      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }}">
-  </a>
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }}">
-      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }}">
-  </a>
-</div>
+{% include gallery id="gallery2" %}
 
 セーブしつつ、いろいろ買ったあと… 久々に新大久保に行ってミナリサムギョプサルを食べた。  
 ミナリはセリのことなんだけど、流行ってるみたいでいろんなところで見る。  
 しっかり香りがあって、お肉との相性抜群だった！  
 
-<div class="image-gallery">
-  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }}">
-      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }}">
-  </a>
-</div>
+{% include gallery id="gallery3" %}
