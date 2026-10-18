@@ -5,7 +5,8 @@ main:
 #    url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: MURMURS
+  - title: Murmur
+    url: /murmur/
     children:
       - title: "2026"
         url: /murmur/2026/
