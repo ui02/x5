@@ -10,8 +10,6 @@ header:
   teaser: /assets/images/posts/2025/2025-08-10-mean-on-sight/thumb.jpg
   image: /assets/images/posts/2025/2025-08-10-mean-on-sight/thumb.jpg
 gallery1:
-  - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250504_123838.jpg
-    image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250504_123838.jpg
   - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_115418.jpg
     image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_115418.jpg
   - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_115251.jpg
@@ -24,12 +22,8 @@ gallery2:
 gallery3:
   - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_141103.jpg
     image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_141103.jpg
-  - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_141103.jpg
-    image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_141103.jpg
   - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142717.jpg
     image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142717.jpg
-  - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142536.jpg
-    image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142536.jpg
 gallery4:
   - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142608.jpg
     image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142608.jpg
@@ -60,3 +54,4 @@ gallery4:
 私もまたカメラやろうかなぁとか思ったりして。  
 
 {% include gallery id="gallery4" %}
+{% include figure popup=true image_path="/assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_142536.jpg" %}
