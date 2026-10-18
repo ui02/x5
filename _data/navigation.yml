@@ -5,7 +5,21 @@ main:
 #    url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Murmur"
-    url: /murmur/
   - title: "About"
     url: /about/
+    
+docs:
+  - title: MURMURS
+    children:
+      - title: "2026"
+        url: /murmur/2026/
+      - title: "2025"
+        url: /murmur/2025/
+      - title: "2024"
+        url: /murmur/2024/
+      - title: "2023"
+        url: /murmur/2023/
+      - title: "2022"
+        url: /murmur/2022/
+      - title: "Quick-Start Guide"
+        url: /murmur/wander/
