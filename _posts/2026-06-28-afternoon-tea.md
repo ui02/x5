@@ -1,14 +1,15 @@
 ---
 title: "初ヌン"
 date: 2026-06-28
+published: true
 categories:
-  - blog
+  - Blog
 tags:
-  - daily life
+  - Daily life
 header:
   teaser: /assets/images/posts/2026/2026-06-28-afternoon-tea/thumb.jpg
   image: /assets/images/posts/2026/2026-06-28-afternoon-tea/thumb.jpg
-published: true
+
 ---
 
 先週末、友達と初アフターヌーンティーしてきた～！  
@@ -20,7 +21,7 @@ published: true
 私たちの隣で男性３人組がアフヌンしているのを見て、  
 私たちも次回はやりたいねってことで。  
 
-![]({{ '/assets/images/posts/2026/2026-06-28-afternoon-tea/IMG_20260620_140928.jpg' | relative_url }})
+{% include figure popup=true image_path="/assets/images/posts/2026/2026-06-28-afternoon-tea/IMG_20260620_140928.jpg" %}
 
 毎月内容が変わるみたいなんだけど、  
 ６月は抹茶で、個人的はムースとテリーヌが特に美味しかった！  
@@ -30,8 +31,6 @@ published: true
 
 2時間あっという間だった。。。また行きたいな～  
 
-![]({{ '/assets/images/posts/2026/2026-06-28-afternoon-tea/IMG_20260620_140934.jpg' | relative_url }})
-
-
+{% include figure popup=true image_path="/assets/images/posts/2026/2026-06-28-afternoon-tea/IMG_20260620_140934.jpg" %}
 
 
