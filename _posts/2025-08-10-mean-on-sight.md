@@ -1,6 +1,5 @@
 ---
-title: "MEAN:on sight"
-summary: "MINHO PHOTO EXIBITION 「MEAN:on sight」 ＠メンズパルコ渋谷（2025/08/10）"
+title: "MINHO PHOTO EXIBITION 「MEAN:on sight」 ＠メンズパルコ渋谷"
 date: 2025-08-10
 categories:
   - blog
