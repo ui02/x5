@@ -1,39 +1,17 @@
-/* 【フォント変更】 */
+---
+---
+@charset "utf-8";
 
-body {
-  font-family: "Yomogi", sans-serif;
-  }
+/* Google Fonts */
+$serif: "Klee One", serif;
+$sans-serif: "Zen Kurenaido", sans-serif;
 
-/* Navigation: Yomogi */
-.masthead .greedy-nav a,
-.masthead__menu-item {
-  font-family: "Yomogi", sans-serif;
-  font-weight: 400;
-}
+/* テーマ全体の基本フォント */
+$global-font-family: $serif;
 
-/* Article titles: Yomogi */
-.page__title,
-.archive__item-title,
-.archive__item-title a {
-  font-family: "Yomogi", sans-serif;
-  font-weight: 400;
-  line-height: 1.6;
-}
+/* 見出し用フォント */
+$header-font-family: $sans-serif;
 
-/* Body text: Yomogi */
-.page__content,
-.page__content p,
-.page__content li,
-.archive__item-excerpt {
-  font-family: "Yomogi", cursive;
-  font-weight: 400;
-  line-height: 1.9;
-}
-
-/* Headings inside articles: Yomogi */
-.page__content h2,
-.page__content h3,
-.page__content h4 {
-  font-family: "Yomogi", sans-serif;
-  font-weight: 400;
-}
+/* スキンとテーマ本体を読み込む */
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
