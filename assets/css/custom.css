@@ -3,12 +3,15 @@
 @charset "utf-8";
 
 /* フォント設定 */
-$global-font-family: "Yomogi", Arial;
-$header-font-family: "Yomogi", Arial;
-
-/* スキンとテーマ本体を読み込む */
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
-@import "minimal-mistakes";
+body,
+.page__content,
+.page__title,
+.archive__item-title,
+.masthead,
+.greedy-nav,
+.sidebar {
+  font-family: "Yomogi", sans-serif;
+}
 
 /* トップページのランダム画像 */
 .home-random-image {
