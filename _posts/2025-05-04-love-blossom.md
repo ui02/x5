@@ -2,7 +2,7 @@
 title: "Love Blossom"
 date: 2025-05-04
 categories:
-  - blog
+  - Blog
 tags:
   - SHINee
 header:
