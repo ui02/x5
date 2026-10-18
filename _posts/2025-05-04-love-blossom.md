@@ -31,7 +31,8 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 ![]({{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }})
 ![]({{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }})
 </div>
-<div class="image-flex-container" markdown="1">
+
+<div width="60%" markdown="1">
 ![]({{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }})
 ![]({{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }})
 </div>
@@ -40,4 +41,6 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 ミナリはセリのことなんだけど、流行ってるみたいでいろんなところで見る。  
 しっかり香りがあって、お肉との相性抜群だった！  
 
-<img src="https://ui02.github.io/x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg" width="300" alt="">
+<div width="60%" markdown="1">
+![]({{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }})
+</div>
