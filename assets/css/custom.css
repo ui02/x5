@@ -2,15 +2,18 @@
 ---
 @charset "utf-8";
 
-/* フォント設定 */
+/* 本文・記事タイトルなど */
 body,
 .page__content,
 .page__title,
 .archive__item-title,
-.masthead,
-.greedy-nav,
 .sidebar {
-  font-family: "Yomogi", sans-serif;
+  font-family: "Caveat", sans-serif;
+}
+
+/* ナビゲーションメニュー */
+.masthead .greedy-nav a {
+  font-family: "Sedgwick Ave", sans-serif;
 }
 
 /* トップページのランダム画像 */
