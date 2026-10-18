@@ -2,6 +2,7 @@
 title: "Murmur"
 layout: single
 permalink: /murmur/
+classes: wide
 ---
 
 日々のちょっとしたつぶやき
