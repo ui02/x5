@@ -3,8 +3,8 @@
 @charset "utf-8";
 
 /* Google Fonts */
-$serif: "Klee One", serif;
-$sans-serif: "Zen Kurenaido", sans-serif;
+$serif: "Yomogi", serif;
+$sans-serif: "Yomogi", sans-serif;
 
 /* テーマ全体の基本フォント */
 $global-font-family: $serif;
