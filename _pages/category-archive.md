@@ -9,5 +9,4 @@ draft: true
 sidebar:
   - title: ""
     image: /assets/images/sidebar.jpg
-    text: "MOOD: 無職まっしぐら"
 ---
