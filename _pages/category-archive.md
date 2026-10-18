@@ -5,8 +5,9 @@ permalink: /categories/
 author_profile: false
 entries_layout: grid
 classes: wide
+draft: true
 sidebar:
-  - title: "Title"
+  - title: ""
     image: /assets/images/sidebar.jpg
     text: "MOOD: 無職まっしぐら"
 ---
