@@ -17,10 +17,16 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 宮下パークのカフェが意外と落ち着いた感じでよかった。  
 同じビルにスタンドオイルも入ってて、ぶらっと鞄を見たりした。  
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="/../../images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg" style="width: 32%;">
-  <img src="/../assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg" style="width: 32%;">
-  <img src="/x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg" style="width: 32%;">
+<div class="image-gallery">
+  <a href="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg">
+    <img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg" alt="">
+  </a>
+  <a href="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg">
+    <img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg" alt="">
+  </a>
+  <a href="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg">
+    <img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg" alt="">
+  </a>
 </div>
 
 ポップアップは14:00入場の回でチケットをとっていて、13:30には列ができ始める感じだった。  
