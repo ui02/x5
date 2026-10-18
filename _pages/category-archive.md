@@ -1,5 +1,5 @@
 ---
-title: "Posts by Category"
+title: ""
 layout: categories
 permalink: /categories/
 author_profile: false
@@ -8,3 +8,4 @@ classes: wide
 draft: true
 classes: wide
 ---
+■ Posts by Category
