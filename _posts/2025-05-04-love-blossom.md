@@ -17,8 +17,6 @@ gallery1:
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg
 gallery2:
-  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg
-    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg
@@ -28,9 +26,6 @@ gallery3:
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg
-gallery4:
-  - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg
-    image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg
 ---
 ## TAEMIN POP-UP STORE「Love Blossom」with GGUNG DAENG ＠TOWER RECORDS 渋谷
 
@@ -44,6 +39,7 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 ポップアップは14:00入場の回でチケットをとっていて、13:30には列ができ始める感じだった。  
 １回で入場する人数もちょうどいい感じで、映り込みなく写真撮れてよかった～  
 
+{% include figure popup=true image_path="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg" %}
 {% include gallery id="gallery2" %}
 {% include gallery id="gallery3" %}
 
@@ -51,4 +47,4 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 ミナリはセリのことなんだけど、流行ってるみたいでいろんなところで見る。  
 しっかり香りがあって、お肉との相性抜群だった！  
 
-{% include gallery id="gallery4" %}
+{% include figure popup=true image_path="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg" %}
