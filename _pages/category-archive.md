@@ -6,7 +6,5 @@ author_profile: false
 entries_layout: grid
 classes: wide
 draft: true
-sidebar:
-  - title: ""
-    image: /assets/images/sidebar.jpg
+classes: "full"
 ---
