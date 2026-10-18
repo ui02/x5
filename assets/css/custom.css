@@ -1,5 +1,9 @@
 /* 【フォント変更】 */
 
+body {
+  font-family: "Yomogi", sans-serif;
+  }
+
 /* Navigation: Yomogi */
 .masthead .greedy-nav a,
 .masthead__menu-item {
