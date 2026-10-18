@@ -18,14 +18,14 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 同じビルにスタンドオイルも入ってて、ぶらっと鞄を見たりした。  
 
 <div class="image-gallery">
-  <a href="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg">
-    <img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg" alt="">
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg' | relative_url }}">
   </a>
-  <a href="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg">
-    <img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg" alt="">
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_130018.jpg' | relative_url }}">
   </a>
-  <a href="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg">
-    <img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg" alt="">
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_131951.jpg' | relative_url }}">
   </a>
 </div>
 
@@ -34,14 +34,14 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   
-  <img src="/../x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg" style="width: 32%;">
-  <img src="../x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg" style="width: 32%;">
-  <img src="https://ui02.github.io/x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg'" style="width: 32%;">
+  <img src="/../x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg' | relative_url }}" style="width: 32%;">
+  <img src="../x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }}" style="width: 32%;">
+  <img src="https://ui02.github.io/x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }}'" style="width: 32%;">
 </div>
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg" style="width: 50%;">
-  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg" style="width: 50%;">
+  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }}" style="width: 50%;">
+  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }}" style="width: 50%;">
 </div>
 
 セーブしつつ、いろいろ買ったあと… 久々に新大久保に行ってミナリサムギョプサルを食べた。  
@@ -49,5 +49,5 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 しっかり香りがあって、お肉との相性抜群だった！  
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg" style="width: 80%;">
+  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }}" style="width: 80%;">
 </div>
