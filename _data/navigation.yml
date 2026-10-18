@@ -6,7 +6,6 @@ main:
   - title: "Tags"
     url: /tags/
   - title: Murmur
-    url: /murmur/
     children:
       - title: "2026"
         url: /murmur/2026/
