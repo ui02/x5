@@ -8,7 +8,6 @@ tags:
   - SHINee
 header:
   teaser: /assets/images/posts/2025/2025-08-10-mean-on-sight/thumb.jpg
-  image: /assets/images/posts/2025/2025-08-10-mean-on-sight/thumb.jpg
 gallery1:
   - url: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_115418.jpg
     image_path: /assets/images/posts/2025/2025-08-10-mean-on-sight/IMG_20250810_115418.jpg
