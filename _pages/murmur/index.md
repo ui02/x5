@@ -2,9 +2,6 @@
 title: "Murmur"
 layout: single
 permalink: /murmur/
-toc_label: "On This Page"
-toc_icon: "list"
-toc_sticky: true
 ---
 
 日々のちょっとしたつぶやき
