@@ -32,22 +32,33 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 ポップアップは14:00入場の回でチケットをとっていて、13:30には列ができ始める感じだった。  
 １回で入場する人数もちょうどいい感じで、映り込みなく写真撮れてよかった～  
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  
-  <img src="/../x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg' | relative_url }}" style="width: 32%;">
-  <img src="../x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }}" style="width: 32%;">
-  <img src="https://ui02.github.io/x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }}'" style="width: 32%;">
+<div class="image-gallery">
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg' | relative_url }}">
+    <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141654.jpg' | relative_url }}">
+  </a>
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_141907.jpg' | relative_url }}">
+  </a>
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142408.jpg' | relative_url }}">
+  </a>
 </div>
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }}" style="width: 50%;">
-  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }}" style="width: 50%;">
+<div class="image-gallery">
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142428.jpg' | relative_url }}">
+  </a>
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_142433.jpg' | relative_url }}">
+  </a>
 </div>
 
 セーブしつつ、いろいろ買ったあと… 久々に新大久保に行ってミナリサムギョプサルを食べた。  
 ミナリはセリのことなんだけど、流行ってるみたいでいろんなところで見る。  
 しっかり香りがあって、お肉との相性抜群だった！  
 
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }}" style="width: 80%;">
+<div class="image-gallery">
+  <a href="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg' | relative_url }}">
+  </a>
 </div>
