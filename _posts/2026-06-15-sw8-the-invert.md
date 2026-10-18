@@ -1,15 +1,26 @@
 ---
 title: "SWⅧ: The Trilogy I - THE INVERT"
 date: 2026-06-15
+published: true
 categories:
-  - blog
+  - Blog
 tags:
   - SHINee
 header:
   teaser: /assets/images/posts/2026/2026-06-15-sw8-the-invert/thumb.jpg
   image: /assets/images/posts/2026/2026-06-15-sw8-the-invert/thumb.jpg
-published: true
-
+gallery:
+  - url: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122246.jpg
+    image_path: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122246.jpg
+  - url: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122327.jpg
+    image_path: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122327.jpg
+  - url: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122344.jpg
+    image_path: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122344.jpg
+gallery2:
+  - url: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_140530.jpg
+    image_path: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_140530.jpg
+  - url: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_140554.jpg
+    image_path: /assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_140554.jpg  
 ---
 ## The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]＠ベルーナドーム
 
@@ -21,8 +32,7 @@ published: true
 備忘録としていろいろ綴るけど、それは大したことじゃないので  
 最後の方の動画だけ見てもらえばOKです！！！  
 
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_135327.jpg' | relative_url }})
-
+{% include figure popup=true image_path="/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_135327.jpg" %}
 
 ## 交通手段
 帰りの電車を心配して途中で帰るのは嫌だったので、走りなれない道は若干不安があったけど車で行くことに。  
@@ -38,16 +48,12 @@ published: true
 
 会場限定ガチャだけ回したんだけど、なかなかの神引き…！ボンボンシールが想像以上に可愛くてビックリした！！（このあとチェミノの缶バッジはボクシリのチャームに交換していただき、無事コンプ）  
 
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg' | relative_url }})
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122246.jpg' | relative_url }})
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122327.jpg' | relative_url }})
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_122344.jpg' | relative_url }})
-
+{% include figure popup=true image_path="/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg" %}
+{% include gallery id="gallery" %}
 
 グッズ購入後はレストランでご飯食べた！ちゃんと美味しくてコーヒーたっぷりなのうれしかった！何よりも、ずっとSHINeeのMV流れてて最高の空間だった～。  
 
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_140530.jpg' | relative_url }})
-![]({{ '/assets/images/posts/2026/2026-06-15-sw8-the-invert/20260616-IMG_20260605_140554.jpg' | relative_url }})
+{% include gallery id="gallery2" %}
 
 なお、レストランでゆっくりしたあとは開場時間まで車でお昼寝してた。（これができるから会場近くの駐車場に停められてめちゃくちゃよかった…）  
 
@@ -55,7 +61,6 @@ published: true
 トイレの1時間待ちはザラと聞いていたんだけど、そんなに困ることはなかった。  
 
 入場する前、レストランがある建物の地下のトイレに行ったんだけど、みんな1階に並んでて地下には1人もいなかった。。ちなみに地下には大量のロッカーとモバイルバッテリーもあってとてつもなく助かった…（レストランのは電源入ってなくて借りれなかった）  
-
 場内では個室多めと聞いてゲートから一番遠いところに行ったんだけど、流れがよくてここもあまり待たずに済んだ。  
 
 なおライブ中のトイレ対策として豆大福を持っていき直前に食べたんだけど、あれお茶飲みたくなるよね。飲んでいいのかよく分からなかった。  
@@ -107,7 +112,7 @@ published: true
 ファンの声が届いて唯一叶った今回のメディア露出、人気歌謡の動画でも貼っておく。  
 カメラマン気合入ってんね！（カメラワークにうるさい女）  
 
-<iframe width="100%" height="" src="https://www.youtube.com/embed/BaHf6hiyRAs?si=qGfwl-Y_dl75mQ2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BaHf6hiyRAs?si=HoTav4MIoU3V6AX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 もうずっとソロ活動ばかりを追ってるような状態だったけど、やっぱり皆そろうとグループでしか見せない顔があって、、、幸せしかなかった、、もっとグループ活動してほしいのが本音だけど…無理もしてほしくなくて。いろんなこと考えたら年イチのライブとペンミでも…いいからさ……それすら贅沢ですかね…  
 
