@@ -8,7 +8,6 @@ tags:
   - SHINee
 header:
   teaser: /assets/images/posts/2025/2025-05-04-love-blossom/thumb.jpg
-  image: /assets/images/posts/2025/2025-05-04-love-blossom/thumb.jpg
 gallery1:
   - url: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg
     image_path: /assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_123838.jpg
