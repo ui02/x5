@@ -40,4 +40,4 @@ GW、テミンの愛猫クン＆デンのポップアップがあったので行
 ミナリはセリのことなんだけど、流行ってるみたいでいろんなところで見る。  
 しっかり香りがあって、お肉との相性抜群だった！  
 
-<img src="/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg" width="300" alt="">
+<img src="https://ui02.github.io/x5/assets/images/posts/2025/2025-05-04-love-blossom/IMG_20250504_161830.jpg" width="300" alt="">
