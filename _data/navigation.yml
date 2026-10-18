@@ -6,6 +6,12 @@ main:
   - title: "Tags"
     url: /tags/
   - title: Murmur
+    url: /murmur/
+  - title: "About"
+    url: /about/
+
+murs:
+  - title: Murmurs
     children:
       - title: "2026"
         url: /murmur/2026/
@@ -19,5 +25,3 @@ main:
         url: /murmur/2022/
       - title: "wander"
         url: /murmur/wander/
-  - title: "About"
-    url: /about/
