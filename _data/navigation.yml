@@ -12,9 +12,8 @@ main:
 
 murs:
   - title: Murmurs
+    url: /murmur/
     children:
-      - title: "[TOP]"
-        url: /murmur/
       - title: "2026"
         url: /murmur/2026/
       - title: "2025"
