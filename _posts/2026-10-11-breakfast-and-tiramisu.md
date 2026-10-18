@@ -8,7 +8,6 @@ tags:
   - Daily life
 header:
   teaser: /assets/images/posts/2026/2026-10-11-breakfast-and-tiramisu/thumb.jpg
-  image: /assets/images/posts/2026/2026-10-11-breakfast-and-tiramisu/thumb.jpg
 ---
 
 １年前にできたというコーヒー屋さん、ひっそりとたたずんでいて全然気が付かなかった。外からメニューを眺めていたらオーナーさんらしき人が声をかけてくれて。その時はランチを食べた帰りだったので、翌日モーニングで行ってみた。　　
