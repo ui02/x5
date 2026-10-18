@@ -1,5 +1,5 @@
 ---
-title: "ヌン"
+title: "初ヌン"
 date: 2026-06-28
 categories:
   - blog
