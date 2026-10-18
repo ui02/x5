@@ -1,27 +1,27 @@
 /* 【フォント変更】 */
 
-/* Navigation: Sedgwick Ave */
+/* Navigation: Yomogi */
 .masthead .greedy-nav a,
 .masthead__menu-item {
-  font-family: "Sedgwick Ave", sans-serif;
+  font-family: "Yomogi", sans-serif;
   font-weight: 400;
 }
 
-/* Article titles: Yusei Magic */
+/* Article titles: Yomogi */
 .page__title,
 .archive__item-title,
 .archive__item-title a {
-  font-family: "Yusei Magic", sans-serif;
+  font-family: "Yomogi", sans-serif;
   font-weight: 400;
   line-height: 1.6;
 }
 
-/* Body text: Klee One */
+/* Body text: Yomogi */
 .page__content,
 .page__content p,
 .page__content li,
 .archive__item-excerpt {
-  font-family: "Klee One", cursive;
+  font-family: "Yomogi", cursive;
   font-weight: 400;
   line-height: 1.9;
 }
