@@ -10,6 +10,7 @@
 /* 本文・その他 */
 body,
 .page__content,
+.page__footer,
 .sidebar {
   font-family: "Noto Sans JP",　"Caveat", sans-serif;
 }
