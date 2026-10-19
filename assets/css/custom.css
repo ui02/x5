@@ -19,7 +19,7 @@
 
 /* サイト全体：英字はLato、日本語はNoto Sans JP */
 body {
-  font-family: "Noto Sans JP", "Caveat", sans-serif;
+  font-family: "Noto Sans JP", "Lato", sans-serif;
 }
 
 /* 記事タイトル・見出し */
