@@ -2,35 +2,16 @@
 ---
 @charset "utf-8";
 
-/* 記事本文のフォントサイズ */
-.page__content {
-  font-size: 14px;
+/* サイト全体：英字はLato、日本語はNoto Sans JP */
+body {
+  font-family: "Caveat", "Noto Sans JP", sans-serif;
 }
 
-/* 本文・その他 */
-body,
-.page__content,
-.page__footer,
-.sidebar {
-  font-family: "Noto Sans JP", "Caveat", sans-serif;
-}
-
-/* 記事タイトル */
+/* 記事タイトル・見出し */
 .page__title,
 .archive__item-title,
-.archive__subtitle,
-.archive-timeline__date,
-.nav__title,
-.nav__sub-title,
-.taxonomy__index,
-.page__meta, .comment__date,
-.h1, h2, h3, h4, h5, h6 {
-  font-family: "Yomogi", "Caveat", "Noto Sans JP", sans-serif;
-}
-
-/* ナビゲーションメニュー */
-.masthead .greedy-nav a {
-  font-family: "Caveat", "Noto Sans JP", sans-serif;
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Yomogi", "Caveat", sans-serif;
 }
 
 /* トップページのランダム画像 */
