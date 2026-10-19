@@ -2,6 +2,21 @@
 ---
 @charset "utf-8";
 
+/* 記事本文のフォントサイズ */
+/* スマホ・通常 */
+.page__content,
+.archive-timeline__item {
+  font-size: 14px;
+}
+
+/* PC */
+@media (min-width: 768px) {
+  .page__content,
+  .archive-timeline__item {
+    font-size: 16px;
+  }
+}
+
 /* サイト全体：英字はLato、日本語はNoto Sans JP */
 body {
   font-family: "Caveat", "Noto Sans JP", sans-serif;
