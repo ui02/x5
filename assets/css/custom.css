@@ -23,7 +23,11 @@ body {
 }
 
 /* 記事タイトル・見出し */
-.page__title {
+.page__title,
+.archive__item-title,
+.taxonomy__index,
+.archive__subtitle,
+.archive__item-title {
   font-family: "Yomogi", "Caveat", sans-serif;
 }
 
