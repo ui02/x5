@@ -2,18 +2,22 @@
 ---
 @charset "utf-8";
 
-/* 本文・記事タイトルなど */
+/* 本文・その他 */
 body,
 .page__content,
-.page__title,
-.archive__item-title,
 .sidebar {
-  font-family: "Yomogi", sans-serif;
+  font-family: "Lato", "Noto Sans JP", sans-serif;
+}
+
+/* 記事タイトル */
+.page__title,
+.archive__item-title {
+  font-family: "Yomogi", "Lato", "Noto Sans JP", sans-serif;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Caveat", sans-serif;
+  font-family: "Lato", "Noto Sans JP", sans-serif;
 }
 
 /* トップページのランダム画像 */
