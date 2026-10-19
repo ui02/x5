@@ -29,11 +29,6 @@ body {
 .archive__subtitle,
 .archive__item-title {
   font-family: "Lato", "Noto Sans JP", sans-serif;
-}
-
-/* 記事タイトルの太さ */
-.archive__item-title,
-.page__title {
   font-weight: 400;
 }
 
