@@ -12,12 +12,19 @@ body,
 .page__content,
 .page__footer,
 .sidebar {
-  font-family: "Noto Sans JP",　"Caveat", sans-serif;
+  font-family: "Noto Sans JP", "Caveat", sans-serif;
 }
 
 /* 記事タイトル */
 .page__title,
-.archive__item-title {
+.archive__item-title,
+.archive__subtitle,
+.archive-timeline__date,
+.nav__title,
+.nav__sub-title,
+.taxonomy__index,
+.page__meta, .comment__date,
+.h1, h2, h3, h4, h5, h6 {
   font-family: "Yomogi", "Caveat", "Noto Sans JP", sans-serif;
 }
 
