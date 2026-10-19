@@ -19,7 +19,7 @@
 
 /* サイト全体：英字はLato、日本語はNoto Sans JP */
 body {
-  font-family: "Gochi Hand", "Kiwi Maru", sans-serif;
+  font-family: "Lato", "Noto Sans JP", sans-serif;
 }
 
 /* 記事タイトル・見出し */
