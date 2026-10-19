@@ -19,7 +19,7 @@
 
 /* サイト全体：英字はLato、日本語はNoto Sans JP */
 body {
-  font-family: "Gochi Hand", "Noto Sans JP", sans-serif;
+  font-family: "Gochi Hand", "Yomogi", sans-serif;
 }
 
 /* 記事タイトル・見出し */
@@ -28,13 +28,13 @@ body {
 .taxonomy__index,
 .archive__subtitle,
 .archive__item-title {
-  font-family: "Gochi Hand", "Noto Sans JP", sans-serif;
+  font-family: "Gochi Hand", "Yomogi", sans-serif;
   font-weight: 400;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Gochi Hand", "Noto Sans JP", sans-serif;
+  font-family: "Gochi Hand", "Yomogi", sans-serif;
 }
 
 /* トップページのランダム画像 */
