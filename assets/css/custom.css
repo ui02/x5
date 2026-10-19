@@ -11,18 +11,18 @@
 body,
 .page__content,
 .sidebar {
-  font-family: "Lato", "Noto Sans JP", sans-serif;
+  font-family: "Noto Sans JP",　"Caveat", sans-serif;
 }
 
 /* 記事タイトル */
 .page__title,
 .archive__item-title {
-  font-family: "Yomogi", "Lato", "Noto Sans JP", sans-serif;
+  font-family: "Yomogi", "Caveat", "Noto Sans JP", sans-serif;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Yomogi", "Lato", "Noto Sans JP", sans-serif;
+  font-family: "Caveat", "Noto Sans JP", sans-serif;
 }
 
 /* トップページのランダム画像 */
