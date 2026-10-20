@@ -28,13 +28,13 @@ body {
 .taxonomy__index,
 .archive__subtitle,
 .archive__item-title {
-  font-family: "Gochi Hand", "Yomogi", sans-serif;
+  font-family: "Caveat", "Yomogi", sans-serif;
   font-weight: 400;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Gochi Hand", "Yomogi", sans-serif;
+  font-family: "Caveat", "Yomogi", sans-serif;
 }
 
 /* トップページのランダム画像 */
