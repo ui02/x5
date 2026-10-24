@@ -59,12 +59,6 @@ body {
   border-radius: 18px;
 }
 
-/* PC：指定した幅で表示 */
-.image-gallery {
-  width: var(--gallery-width, 100%);
-  box-sizing: border-box;
-}
-
 /* スマホ：幅100％・中央寄せ */
 @media screen and (max-width: 767px) {
   .page__content figure.image-gallery {
