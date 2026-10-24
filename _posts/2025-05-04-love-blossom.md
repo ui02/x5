@@ -6,6 +6,8 @@ categories:
   - Blog
 tags:
   - SHINee
+sidebar:
+  nav: "posts"
 header:
   teaser: /assets/images/posts/2025/2025-05-04-love-blossom/thumb.jpg
 gallery1:
