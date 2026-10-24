@@ -5,27 +5,32 @@ main:
     url: /posts/
 #  - title: "Categories"
 #    url: /categories/
-  - title: "Tags"
-    url: /tags/
+#  - title: "Tags"
+#    url: /tags/
   - title: Murmur
     url: /murmur/
   - title: "About"
     url: /about/
 
 posts:
-  - title: Posts by Year
+  - title: "Posts"
+    image: "/assets/images/random/photo01.jpg"
     url: /posts/
+    image_alt: ""
+    text: ""
+  - title: Posts by Year
+    url: /archive/
     children:
       - title: "2026"
-        url: /posts/#2026
+        url: /archive/#2026
       - title: "2025"
-        url: /posts/#2025
+        url: /archive/#2025
       - title: "2024"
-        url: /posts/#2024
+        url: /archive/#2024
       - title: "2023"
-        url: /posts/#2023
+        url: /archive/#2023
   - title: Posts by Tags
-    url: /posts/
+    url: /tags/
     children:
       - title: "Daily life"
         url: /tags/#daily-life
