@@ -13,9 +13,6 @@ main:
     url: /about/
 
 posts:
-  - title: "■ Posts"
-    image: "/assets/images/sidebar.jpg"
-    text: ""
   - title: ■ Posts by Year
     url: /archive/
     children:
