@@ -6,6 +6,8 @@ categories:
   - Blog
 tags:
   - SHINee
+sidebar:
+  nav: "posts"
 header:
   teaser: /assets/images/posts/2025/2025-08-10-mean-on-sight/thumb.jpg
 gallery1:
