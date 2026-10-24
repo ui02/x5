@@ -2,7 +2,7 @@
 title: "Posts by Category"
 permalink: /categories/
 layout: categories
-author_profile: false
+author_profile: true
 entries_layout: list
 classes: wide
 ---
