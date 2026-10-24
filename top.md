@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: grid
 title: ""
 permalink: /top/
 ---
