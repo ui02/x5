@@ -5,5 +5,5 @@ permalink: /categories/
 author_profile: false
 entries_layout: list
 classes: wide
-draft: true
+draft: false
 ---
