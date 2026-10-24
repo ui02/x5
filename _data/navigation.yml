@@ -14,7 +14,7 @@ main:
 
 posts:
   - title: "Posts"
-    image: "sidebar.jpg"
+    image: "https://ui02.github.io/x5/images/sidebar.jpg"
     url: /posts/
     image_alt: ""
     text: ""
