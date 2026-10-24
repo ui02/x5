@@ -34,7 +34,7 @@ body {
 
 /* 画像キャプションのフォント */
 .page__content figure figcaption {
-  font-family: "Yomogi", "Caveat", sans-serif;
+  font-family: "Yomogi", "Caveat", sans-serif !important;
 }
 
 /* ナビゲーションメニュー */
