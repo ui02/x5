@@ -2,6 +2,7 @@
 title: "MEAN:on sight"
 date: 2025-08-10
 published: true
+excerpt： ""
 categories:
   - Blog
 tags:
