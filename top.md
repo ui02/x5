@@ -1,5 +1,7 @@
 ---
 layout: grid
 title: ""
-permalink: /top/
+permalink: /posts/
+sidebar:
+  nav: "posts"
 ---
