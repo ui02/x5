@@ -6,6 +6,8 @@ categories:
   - Blog
 tags:
   - Daily life
+sidebar:
+  nav: "posts"
 header:
   teaser: /assets/images/posts/2026/2026-10-11-breakfast-and-tiramisu/thumb.jpg
 ---
