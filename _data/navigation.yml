@@ -12,6 +12,29 @@ main:
   - title: "About"
     url: /about/
 
+posts:
+  - title: Posts by Year
+    url: /posts/
+    children:
+      - title: "2026"
+        url: /posts/#2026
+      - title: "2025"
+        url: /posts/#2025
+      - title: "2024"
+        url: /posts/#2024
+      - title: "2023"
+        url: /posts/#2023
+  - title: Posts by Tags
+    url: /posts/
+    children:
+      - title: "Daily life"
+        url: /tags/#daily-life
+      - title: "SHINee"
+        url: /tags/#shinee
+      - title: "Travelog"
+        url: /tags/#travelog
+
+
 murs:
   - title: Murmurs
     url: /murmur/
