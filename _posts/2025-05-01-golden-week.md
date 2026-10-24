@@ -2,6 +2,7 @@
 title: "しっかり遊んだGW"
 date: 2025-05-01
 published: true
+excerpt: ""
 categories:
   - Blog
 tags:
