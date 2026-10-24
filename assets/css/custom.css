@@ -59,18 +59,25 @@ body {
   border-radius: 18px;
 }
 
-/* スマホでは画像を100%表示固定にする */
-@media (max-width: 767px) {
-  .mobile-reset {
-    float: none !important;
+/* PC：指定した幅で表示 */
+.image-gallery {
+  width: var(--gallery-width, 100%);
+  box-sizing: border-box;
+}
+
+/* スマホ：幅100％・中央寄せ */
+@media screen and (max-width: 767px) {
+  .page__content figure.image-gallery {
     width: 100% !important;
-    margin: 1em auto !important;
-    clear: both !important;
-    display: block;
+    max-width: 100%;
+    float: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
   }
 
-  .mobile-reset img {
-    width: 100% !important;
+  .page__content figure.image-gallery img {
+    width: 100%;
     height: auto;
   }
 }
+
