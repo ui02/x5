@@ -2,8 +2,7 @@
 title: "Murmur"
 layout: single
 permalink: /murmur/
-author_profile: false
-classes: wide
+author_profile: true
 sidebar:
   nav: ""
 ---
