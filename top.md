@@ -1,5 +1,5 @@
 ---
-layout: grid
+layout: home
 title: ""
 permalink: /posts/
 sidebar:
