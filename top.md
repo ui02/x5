@@ -7,4 +7,5 @@ entries_layout: grid
 classes: wide
 sidebar:
   nav: "posts"
+  image: "/assets/images/sidebar.jpg"
 ---
