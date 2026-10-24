@@ -54,17 +54,18 @@ body {
   border-radius: 18px;
 }
 
-/* スマホでも画像の右側に文章を回り込ませる */
+/* スマホでは画像を100%表示固定にする */
 @media (max-width: 767px) {
-  .mobile-float-right {
-    float: right;
-    width: 35%;
-    margin: 0 0 1em 1em;
-    clear: none;
+  .mobile-reset {
+    float: none !important;
+    width: 100% !important;
+    margin: 1em auto !important;
+    clear: both !important;
+    display: block;
   }
 
-  .mobile-float-right img {
-    width: 100%;
+  .mobile-reset img {
+    width: 100% !important;
     height: auto;
   }
 }
