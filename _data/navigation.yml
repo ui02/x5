@@ -13,12 +13,10 @@ main:
     url: /about/
 
 posts:
-  - title: "Posts"
-    image: "https://ui02.github.io/x5/assets/images/sidebar.jpg"
-    url: /posts/
-    image_alt: ""
+  - title: "■ Posts"
+    image: "/assets/images/sidebar.jpg"
     text: ""
-  - title: Posts by Year
+  - title: ■ Posts by Year
     url: /archive/
     children:
       - title: "2026"
@@ -29,7 +27,7 @@ posts:
         url: /archive/#2024
       - title: "2023"
         url: /archive/#2023
-  - title: Posts by Tags
+  - title: ■ Posts by Tags
     url: /tags/
     children:
       - title: "Daily life"
