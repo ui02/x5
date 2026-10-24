@@ -2,11 +2,11 @@
 title: ""
 permalink: /posts/
 layout: home
-author_profile: false
+author_profile: true
 entries_layout: grid
 classes: wide
 sidebar:
   - title: ""
-    image: "/assets/images/sidebar.jpg"
+    image: ""
     nav: "posts"
 ---
