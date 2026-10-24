@@ -1,9 +1,9 @@
 ---
 title: ""
 permalink: /posts/
-layout: list
+layout: home
 author_profile: false
-entries_layout: grid
+entries_layout: single
 classes: wide
 sidebar:
   nav: "posts"
