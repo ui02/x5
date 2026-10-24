@@ -53,3 +53,18 @@ body {
   object-fit: contain;
   border-radius: 18px;
 }
+
+/* スマホでも画像の右側に文章を回り込ませる */
+@media (max-width: 767px) {
+  .mobile-float-right {
+    float: right;
+    width: 35%;
+    margin: 0 0 1em 1em;
+    clear: none;
+  }
+
+  .mobile-float-right img {
+    width: 100%;
+    height: auto;
+  }
+}
