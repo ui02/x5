@@ -14,7 +14,7 @@ main:
 
 posts:
   - title: "Posts"
-    image: "/images/sidebar.jpg"
+    image: "sidebar.jpg"
     url: /posts/
     image_alt: ""
     text: ""
