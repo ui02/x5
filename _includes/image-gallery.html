@@ -9,4 +9,8 @@
       <img src="{{ image_url }}" alt="">
     </a>
   {% endfor %}
+
+  {% if include.caption %}
+    <figcaption>{{ include.caption }}</figcaption>
+  {% endif %}
 </figure>
