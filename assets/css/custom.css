@@ -32,6 +32,11 @@ body {
   font-weight: 400;
 }
 
+/* 画像キャプションのフォント */
+.page__content figure figcaption {
+  font-family: "Caveat", "Yomogi", sans-serif;
+}
+
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
   font-family: "Caveat", "Yomogi", sans-serif;
