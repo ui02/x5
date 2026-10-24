@@ -2,9 +2,10 @@
 title: "Murmur"
 layout: single
 permalink: /murmur/
-author_profile: true
+author_profile: false
+classes: wide
 sidebar:
-  nav: ""
+  nav: 
 ---
 
 日々のちょっとしたつぶやき
