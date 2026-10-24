@@ -6,6 +6,8 @@ categories:
   - Blog
 tags:
   - Daily life
+sidebar:
+  nav: "posts"
 header:
   teaser: /assets/images/posts/2025/2025-05-01-golden-week/thumb.jpg
 gallery:
