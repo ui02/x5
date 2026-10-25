@@ -162,3 +162,10 @@
   border: 1px solid #777;
   box-sizing: border-box;
 }
+
+.archive-timeline__gallery {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 4px;
+}
