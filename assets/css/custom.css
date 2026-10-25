@@ -214,9 +214,9 @@ figure.highlight {
 }
 .toc .nav__title {
     color: #4B5148;
-    background: #E5E8DF;
+    background-color: #E5E8DF;
 }
-  .toc {
+.toc {
     background-color: #fff;
     border: 1px solid #4B5148;
 }
