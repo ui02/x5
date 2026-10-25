@@ -19,7 +19,7 @@
 
 /* サイト全体：英字はLato、日本語はNoto Sans JP */
 body {
-  font-family: "Lato", "Noto Sans JP", sans-serif;
+  font-family: "Lato", "Noto Sans JP", "Gamja Flower", sans-serif;
 }
 
 /* 記事タイトル・見出し */
@@ -28,18 +28,18 @@ body {
 .taxonomy__index,
 .archive__subtitle,
 .archive__item-title {
-  font-family: "Caveat", "Yomogi", sans-serif;
+  font-family: "Caveat", "Yomogi", "Gamja Flower", sans-serif;
   font-weight: 400;
 }
 
 /* 画像キャプションのフォント */
 .page__content figure figcaption {
-  font-family: "Yomogi", "Caveat", sans-serif !important;
+  font-family: "Yomogi", "Caveat", "Gamja Flower", sans-serif; !important;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Caveat", "Yomogi", sans-serif;
+  font-family: "Caveat", sans-serif;
 }
 
 /* トップページのランダム画像 */
@@ -78,4 +78,120 @@ body {
 /* トップページの Recent Posts を非表示 */
 body.layout--home .archive__subtitle {
   display: none;
+}
+
+
+/* =================================
+   サイト配色：Natural Beige & Sage
+   ================================= */
+
+/* 背景・基本の文字色 */
+html,
+body {
+  background-color: #FFFFFF;
+  color: #4B5148;
+}
+
+/* メインコンテンツ */
+#main {
+  background-color: #FFFFFF;
+}
+
+/* リンク */
+a {
+  color: #6B8F71;
+}
+
+a:hover {
+  color: #4F7055;
+}
+
+/* サイトタイトル・見出し */
+.site-title,
+.site-title:visited,
+.page__title,
+.archive__item-title {
+  color: #4B5148;
+}
+
+/* ヘッダー・ナビゲーション */
+.masthead,
+.musthead__menu {
+  background-color: #FFFFFF;
+  border-bottom: 1px solid #E5E1D7;
+}
+
+.masthead a,
+.greedy-nav a,
+.greedy-nav a:visited {
+  color: #4B5148;
+}
+
+.greedy-nav a:hover {
+  color: #6B8F71;
+}
+
+.fas fa-search, {
+  color: #6B8F71;
+}
+
+
+/* サイドバー */
+.sidebar {
+  background-color: #FFFFFF;
+}
+
+/* ボタン */
+.btn {
+  background-color: #6B8F71;
+  color: #FFFFFF;
+  border: 1px solid #6B8F71;
+}
+
+.btn:hover {
+  background-color: #4F7055;
+  color: #FFFFFF;
+}
+
+/* フッター */
+.page__footer {
+  background-color: #F7F5F0;
+  color: #4B5148;
+}
+
+.page__footer a {
+  color: #6B8F71;
+}
+
+/* コードブロック */
+.highlight,
+div.highlighter-rouge,
+figure.highlight {
+  background-color: #F7F5F0;
+}
+
+/* いろいろ */
+.pagination li a.current,.pagination li a.current.disabled {
+    color: #fff;
+    background: #E5E8DF;
+}
+.search__toggle {
+    margin-inline:1rem;height: 2rem;
+    border: 0;
+    outline: none;
+    color: #6B8F71;
+}
+.search__toggle:hover {
+    color: #6B8F71;
+}
+
+.archive__item-title .ais-Highlight {
+    color: #6B8F71;
+    font-style: normal;
+    text-decoration: underline
+}
+.archive__item-excerpt .ais-Highlight {
+    color: #6B8F71;
+    font-style: normal;
+    font-weight: bold
 }
