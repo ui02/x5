@@ -151,8 +151,23 @@
 }
 
 /* タイムライン画像 */
-.archive-timeline__gallery .timeline-image {
+.archive-timeline__gallery {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 4px;
+}
+
+/* 画像を囲むリンク */
+.archive-timeline__gallery a {
+  display: block;
   width: 35%;
+  flex-shrink: 0;
+}
+
+/* 画像本体 */
+.archive-timeline__gallery .timeline-image {
+  width: 100%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   display: block;
@@ -163,9 +178,8 @@
   box-sizing: border-box;
 }
 
-.archive-timeline__gallery {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  gap: 4px;
+/* aタグで囲まれていない画像 */
+.archive-timeline__gallery > img.timeline-image {
+  width: 35%;
+  flex-shrink: 0;
 }
