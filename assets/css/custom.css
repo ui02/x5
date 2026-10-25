@@ -106,6 +106,9 @@ a:hover {
   color: #4F7055;
 }
 
+a:visited {
+    color: #4F7055;
+}
 /* サイトタイトル・見出し */
 .site-title,
 .site-title:visited,
@@ -145,19 +148,19 @@ a:hover {
 
 /* ボタン */
 .btn {
-  background-color: #6B8F71;
+  background-color: #F7F5F0;
   color: #FFFFFF;
   border: 1px solid #6B8F71;
 }
 
 .btn:hover {
-  background-color: #4F7055;
+  background-color: #E5E8DF;
   color: #FFFFFF;
 }
 
 /* フッター */
 .page__footer {
-  background-color: #F7F5F0;
+  background-color: #FFFFFF;
   color: #4B5148;
 }
 
@@ -176,6 +179,10 @@ figure.highlight {
 .pagination li a.current,.pagination li a.current.disabled {
     color: #fff;
     background: #E5E8DF;
+}
+.pagination--pager:hover {
+    background-color: #6B8F71;
+    color: #fff
 }
 .search__toggle {
     margin-inline:1rem;height: 2rem;
