@@ -10,7 +10,7 @@ tags:
 sidebar:
   nav: "posts"
 header:
-  teaser: /assets/images/posts/2026-06-28/thumb.jpg
+  teaser: /assets/images/posts/2026-06-28-afternoon-tea/thumb.jpg
 ---
 
 先週末、友達と初アフターヌーンティーしてきた～！  
@@ -22,7 +22,7 @@ header:
 私たちの隣で男性３人組がアフヌンしているのを見て、  
 私たちも次回はやりたいねってことで。  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-28/IMG_20260620_140928.jpg" %}
+{% include figure popup=true image_path="/assets/images/posts/2026-06-28-afternoon-tea/IMG_20260620_140928.jpg" %}
 
 毎月内容が変わるみたいなんだけど、  
 ６月は抹茶で、個人的はムースとテリーヌが特に美味しかった！  
@@ -32,6 +32,6 @@ header:
 
 2時間あっという間だった。。。また行きたいな～  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-28/IMG_20260620_140934.jpg" %}
+{% include figure popup=true image_path="/assets/images/posts/2026-06-28-afternoon-tea/IMG_20260620_140934.jpg" %}
 
 
