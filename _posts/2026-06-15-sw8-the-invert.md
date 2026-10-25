@@ -38,10 +38,16 @@ header:
 
 会場限定ガチャだけ回したんだけど、なかなかの神引き…！ボンボンシールが想像以上に可愛くてビックリした！！（このあとチェミノの缶バッジはボクシリのチャームに交換していただき、無事コンプ）  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/Screenshot.jpg" %}
+{% include image-gallery.html
+  folder="/2026-06-15-sw8-the-invert"
+  layout=""
+  width="40%"
+  images="Screenshot.jpg"
+%}
 {% include image-gallery.html
   folder="/2026-06-15-sw8-the-invert"
   layout="third"
+  width="40%"
   images="IMG_20260605_122246.jpg,IMG_20260605_122327.jpg,IMG_20260605_122344.jpg"
 %}
 
