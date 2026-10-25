@@ -116,9 +116,11 @@ a:hover {
 
 /* ヘッダー・ナビゲーション */
 .masthead,
-.musthead__menu {
+.musthead__menu,
+.masthead__inner-wrap,
+.greedy-nav {
   background-color: #FFFFFF;
-  border-bottom: 1px solid #E5E1D7;
+  border-bottom: 0px solid #E5E1D7;
 }
 
 .masthead a,
@@ -194,4 +196,12 @@ figure.highlight {
     color: #6B8F71;
     font-style: normal;
     font-weight: bold
+}
+.nav__title {
+    background-color: #E5E8DF;
+    color: #6B8F71;
+}
+.toc .active a {
+    background-color: #F7F5F0;
+    color: #6e7074
 }
