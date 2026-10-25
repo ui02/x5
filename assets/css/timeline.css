@@ -150,10 +150,14 @@
   }
 }
 
-/* タイムライン記事の画像を正方形にする */
+/* タイムライン画像 */
 .archive-timeline__gallery .timeline-image {
-  width: 100%;
+  width: 50%;
   aspect-ratio: 1 / 1;
   object-fit: cover;
   display: block;
+
+  padding: 4px;
+  border: 1px solid #000;
+  box-sizing: border-box;
 }
