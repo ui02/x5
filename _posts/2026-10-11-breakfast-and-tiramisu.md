@@ -1,5 +1,5 @@
 ---
-title: "モーニングとティラミス"
+title: "朝食とティラミス"
 date: 2026-10-11
 published: true
 excerpt: ""
