@@ -95,20 +95,25 @@ body {
 /* メインコンテンツ */
 #main {
   background-color: #FFFFFF;
+  color: #4B5148;
 }
 
 /* リンク */
 a {
   color: #6B8F71;
+  text-decoration: underline;
+  text-decoration-color: #6B8F71;
 }
 
 a:hover {
-  color: #4F7055;
+  color: #6B8F71;
+  background-color: #E5E8DF;
 }
 
 a:visited {
-    color: #4F7055;
+  color: #6B8F71;
 }
+
 /* サイトタイトル・見出し */
 .site-title,
 .site-title:visited,
@@ -134,6 +139,7 @@ a:visited {
 
 .greedy-nav a:hover {
   color: #6B8F71;
+  background-color: #E5E8DF;
 }
 
 .fas fa-search, {
@@ -148,13 +154,13 @@ a:visited {
 
 /* ボタン */
 .btn {
-  background-color: #F7F5F0;
-  color: #FFFFFF;
-  border: 1px solid #6B8F71;
+  background-color: #FFFFFF;
+  color: #6B8F71;
+  border: 1px solid #4B5148;
 }
 
 .btn:hover {
-  background-color: #E5E8DF;
+  background-color: #6B8F71;
   color: #FFFFFF;
 }
 
@@ -205,18 +211,21 @@ figure.highlight {
     font-style: normal;
     font-weight: bold;
 }
+
+/* ナビバー？ */
 .nav__title {
     background-color: #E5E8DF;
-    color: #6B8F71;
+    color: #4B5148;
+    font-style: normal;
 }
 .nav__list a:hover {
     text-decoration: underline;
-    text-decoration-color: #6B8F71;
-    background-color: #E5E8DF;
+    text-decoration-color: #4B5148;
+    color: #4B5148;
 }
 .toc .active a {
     background-color: #F7F5F0;
-    color: #6e7074;
+    color: #4B5148;
 }
 .toc .nav__title {
     color: #4B5148;
