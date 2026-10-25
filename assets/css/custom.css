@@ -212,3 +212,11 @@ figure.highlight {
     background-color: #F7F5F0;
     color: #6e7074
 }
+.toc .nav__title {
+    color: #4B5148;
+    background: #E5E8DF;
+}
+  .toc {
+    background-color: #fff;
+    border: 1px solid #4B5148;
+}
