@@ -22,7 +22,7 @@ header:
 備忘録としていろいろ綴るけど、それは大したことじゃないので  
 最後の方の動画だけ見てもらえばOKです！！！  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/20260616-IMG_20260605_135327.jpg" %}
+{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/IMG_20260605_135327.jpg" %}
 
 ## 交通手段
 帰りの電車を心配して途中で帰るのは嫌だったので、走りなれない道は若干不安があったけど車で行くことに。  
@@ -38,7 +38,7 @@ header:
 
 会場限定ガチャだけ回したんだけど、なかなかの神引き…！ボンボンシールが想像以上に可愛くてビックリした！！（このあとチェミノの缶バッジはボクシリのチャームに交換していただき、無事コンプ）  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/20260616-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg" %}
+{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/Screenshot.jpg" %}
 {% include image-gallery.html
   folder="/2026-06-15-sw8-the-invert"
   layout="third"
