@@ -198,6 +198,7 @@ figure.highlight {
     color: #6B8F71;
     font-style: normal;
     text-decoration: underline;
+    text-decoration-color: #6B8F71;
 }
 .archive__item-excerpt .ais-Highlight {
     color: #6B8F71;
@@ -210,6 +211,7 @@ figure.highlight {
 }
 .nav__list a:hover {
     text-decoration: underline;
+    text-decoration-color: #6B8F71;
     background-color: #E5E8DF;
 }
 .toc .active a {
@@ -223,4 +225,26 @@ figure.highlight {
 .toc {
     background-color: #fff;
     border: 1px solid #E5E8DF;
+}
+
+.archive__item-title .ais-Highlight {
+    color: #6B8F71;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: #6B8F71;
+}
+.archive__item-title .ais-Highlight {
+    color: #6B8F71;
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-color: #6B8F71;
+}
+.archive__item-excerpt .ais-Highlight {
+    color: #6B8F71;
+    font-style: normal;
+    font-weight: bold;
+}
+.page__content a:not(.btn):hover {
+    text-decoration: underline;
+    text-decoration-color: #6B8F71;
 }
