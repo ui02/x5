@@ -75,3 +75,7 @@ body {
   }
 }
 
+/* トップページの Recent Posts を非表示 */
+body.layout--home .archive__subtitle {
+  display: none;
+}
