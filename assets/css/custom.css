@@ -19,7 +19,7 @@
 
 /* サイト全体：英字はLato、日本語はNoto Sans JP */
 body {
-  font-family: "Lato", "Noto Sans JP", "Gamja Flower", sans-serif;
+  font-family: "Lato", "Noto Sans JP", "Gaegu display", sans-serif;
 }
 
 /* 記事タイトル・見出し */
@@ -28,13 +28,13 @@ body {
 .taxonomy__index,
 .archive__subtitle,
 .archive__item-title {
-  font-family: "Caveat", "Yomogi", "Gamja Flower", sans-serif;
+  font-family: "Caveat", "Yomogi", "Gaegu display", sans-serif;
   font-weight: 400;
 }
 
 /* 画像キャプションのフォント */
 .page__content figure figcaption {
-  font-family: "Yomogi", "Caveat", "Gamja Flower", sans-serif; !important;
+  font-family: "Yomogi", "Caveat", "Gaegu display", sans-serif; !important;
 }
 
 /* ナビゲーションメニュー */
