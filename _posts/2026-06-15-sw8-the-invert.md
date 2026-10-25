@@ -10,19 +10,7 @@ tags:
 sidebar:
   nav: "posts"
 header:
-  teaser: /assets/images/posts/2026-06-15/thumb.jpg
-gallery:
-  - url: /assets/images/posts/2026-06-15/20260616-IMG_20260605_122246.jpg
-    image_path: /assets/images/posts/2026-06-15/20260616-IMG_20260605_122246.jpg
-  - url: /assets/images/posts/2026-06-15/20260616-IMG_20260605_122327.jpg
-    image_path: /assets/images/posts/2026-06-15/20260616-IMG_20260605_122327.jpg
-  - url: /assets/images/posts/2026-06-15/20260616-IMG_20260605_122344.jpg
-    image_path: /assets/images/posts/2026-06-15/20260616-IMG_20260605_122344.jpg
-gallery2:
-  - url: /assets/images/posts/2026-06-15/20260616-IMG_20260605_140530.jpg
-    image_path: /assets/images/posts/2026-06-15/20260616-IMG_20260605_140530.jpg
-  - url: /assets/images/posts/2026-06-15/20260616-IMG_20260605_140554.jpg
-    image_path: /assets/images/posts/2026-06-15/20260616-IMG_20260605_140554.jpg  
+  teaser: /assets/images/posts/2026-06-15-sw8-the-invert/thumb.jpg
 ---
 ## The Trilogy I - 2026 SHINee WORLD VIII : [THE INVERT]＠ベルーナドーム
 
@@ -34,7 +22,7 @@ gallery2:
 備忘録としていろいろ綴るけど、それは大したことじゃないので  
 最後の方の動画だけ見てもらえばOKです！！！  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-15/20260616-IMG_20260605_135327.jpg" %}
+{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/20260616-IMG_20260605_135327.jpg" %}
 
 ## 交通手段
 帰りの電車を心配して途中で帰るのは嫌だったので、走りなれない道は若干不安があったけど車で行くことに。  
@@ -50,12 +38,20 @@ gallery2:
 
 会場限定ガチャだけ回したんだけど、なかなかの神引き…！ボンボンシールが想像以上に可愛くてビックリした！！（このあとチェミノの缶バッジはボクシリのチャームに交換していただき、無事コンプ）  
 
-{% include figure popup=true image_path="/assets/images/posts/2026-06-15/20260616-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg" %}
-{% include gallery id="gallery" %}
+{% include figure popup=true image_path="/assets/images/posts/2026-06-15-sw8-the-invert/20260616-Screenshot_2026-06-05-11-46-22-513_com.smentertainment.shineestore.jpg" %}
+{% include image-gallery.html
+  folder="/2026-06-15-sw8-the-invert"
+  layout="third"
+  images="IMG_20260605_122246.jpg,IMG_20260605_122327.jpg,IMG_20260605_122344.jpg"
+%}
 
 グッズ購入後はレストランでご飯食べた！ちゃんと美味しくてコーヒーたっぷりなのうれしかった！何よりも、ずっとSHINeeのMV流れてて最高の空間だった～。  
 
-{% include gallery id="gallery2" %}
+{% include image-gallery.html
+  folder="/2026-06-15-sw8-the-invert"
+  layout="half"
+  images="IMG_20260605_140530.jpg,IMG_20260605_140554.jpg"
+%}
 
 なお、レストランでゆっくりしたあとは開場時間まで車でお昼寝してた。（これができるから会場近くの駐車場に停められてめちゃくちゃよかった…）  
 
