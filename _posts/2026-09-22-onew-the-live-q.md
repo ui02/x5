@@ -6,7 +6,7 @@ excerpt: ""
 categories:
   - Blog
 tags:
-  - Daily life
+  - SHINee
 sidebar:
   nav: "posts"
 header:
