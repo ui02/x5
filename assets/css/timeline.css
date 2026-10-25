@@ -161,7 +161,7 @@
 /* 画像を囲むリンク */
 .archive-timeline__gallery a {
   display: block;
-  width: 35%;
+  width: 40%;
   flex-shrink: 0;
 }
 
@@ -180,6 +180,6 @@
 
 /* aタグで囲まれていない画像 */
 .archive-timeline__gallery > img.timeline-image {
-  width: 35%;
+  width: 40%;
   flex-shrink: 0;
 }
