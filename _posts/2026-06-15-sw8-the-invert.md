@@ -43,7 +43,7 @@ header:
   layout=""
   width="43%"
   images="Screenshot.jpg"
-%}
+%}{: .align-left}
 {% include image-gallery.html
   folder="/2026-06-15-sw8-the-invert"
   layout=""
