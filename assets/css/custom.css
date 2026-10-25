@@ -211,6 +211,15 @@ figure.highlight {
     font-style: normal;
     font-weight: bold;
 }
+.u-url {
+    text-decoration: underline;
+    text-decoration-color: #6B8F71;
+}
+.u-url a:hover {
+    text-decoration: underline;
+    text-decoration-color: #6B8F71;
+    background-color: #E5E8DF;
+}
 
 /* ナビバー？ */
 .nav__title {
