@@ -227,7 +227,7 @@ figure.highlight {
     font-style: normal;
 }
 .nav__list a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-color: #4B5148;
     color: #4B5148;
 }
@@ -242,6 +242,11 @@ figure.highlight {
 .toc {
     background-color: #fff;
     border: 1px solid #E5E8DF;
+}
+
+.toc__menu a {
+    color: #8e8b82;
+    font-weight: normal;
 }
 
 .archive__item-title .ais-Highlight {
