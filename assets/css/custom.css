@@ -265,3 +265,7 @@ figure.highlight {
     text-decoration: underline;
     text-decoration-color: #6B8F71;
 }
+
+.u-photo a:hover {
+    background-color: #fff;
+}
