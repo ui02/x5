@@ -24,7 +24,7 @@ posts:
         url: /archive/#2024
       - title: "2023"
         url: /archive/#2023
-  - title: ■ Posts by Tags
+  - title: ■ Posts by Tag
     url: /tags/
     children:
       - title: "Daily life"
