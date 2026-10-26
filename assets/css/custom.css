@@ -243,6 +243,9 @@ figure.highlight {
     text-decoration-color: #4B5148;
     color: #4B5148;
 }
+.nav__sub-title a:hover {
+  background-color: #E5E8DF;
+}
 .toc .active a {
     background-color: #F7F5F0;
     color: #4B5148;
@@ -290,11 +293,9 @@ figure.highlight {
 .murmur-card a:hover {
   background-color: #fff;
 }
-
-.nav__sub-title a:hover {
-  background-color: #E5E8DF;
-}
-
 .murmur-card span {
   font-weight: normal;
+}
+.murmur-card {
+  font-family: "Caveat", "Yomogi", "Gaegu display", sans-serif;
 }
