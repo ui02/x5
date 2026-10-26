@@ -113,7 +113,6 @@ defaults:
       path: "_pages/murmur"
       type: pages
     values:
-      show_date: true
       sidebar:
         nav: "murs"
 
