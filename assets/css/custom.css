@@ -290,3 +290,7 @@ figure.highlight {
 .murmur-card a:hover {
   background-color: #fff;
 }
+
+nav__sub-title a:hover {
+  background-color: #E5E8DF;
+}
