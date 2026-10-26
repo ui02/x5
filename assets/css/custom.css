@@ -146,6 +146,18 @@ a:visited {
   color: #6B8F71;
 }
 
+/* ナビゲーションのホバー下線を消す */
+.masthead__menu-item a::before,
+.masthead__menu-item a::after {
+  display: none !important;
+  content: none !important;
+}
+
+.masthead__menu-item a:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
 
 /* サイドバー */
 .sidebar {
