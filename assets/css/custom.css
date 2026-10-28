@@ -246,6 +246,11 @@ figure.highlight {
 .nav__sub-title a:hover {
   background-color: #E5E8DF;
 }
+
+.nav__items a:hover {
+  background-color: #E5E8DF;
+}
+
 .toc .active a {
     background-color: #F7F5F0;
     color: #4B5148;
