@@ -146,6 +146,13 @@ a:visited {
   color: #6B8F71;
 }
 
+/* ヘッダーをスクロールに追従させる */
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
 /* ナビゲーションのホバー下線を消す */
 .masthead__menu-item a::before,
 .masthead__menu-item a::after {
