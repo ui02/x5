@@ -9,5 +9,5 @@ classes: wide
 sidebar:
   - title: ""
     image: ""
-    nav: "posts"
+    nav: "diary"
 ---
