@@ -3,6 +3,8 @@ main:
 #   url: /top/
   - title: "Posts"
     url: /posts/
+  - title: "Diary"
+    url: /diary/ 
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
