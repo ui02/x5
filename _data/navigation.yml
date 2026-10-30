@@ -7,10 +7,14 @@ main:
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
-  - title: Murmur
+  - title: "Murmur"
     url: /murmur/
   - title: "About"
     url: /about/
+  - title: "Gallery"
+    url: /
+  - title: "Game"
+    url: /
 
 diary:
   - title: ■ Posts by Year
