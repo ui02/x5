@@ -1,7 +1,7 @@
 ---
 title: "Posts"
 permalink: /posts/
-layout: home
+layout: posts-timeline
 author_profile: true
 #entries_layout: grid
 show_excerpts: false
