@@ -1,0 +1,29 @@
+---
+layout: single
+---
+
+<div class="posts-timeline">
+  {% for post in site.posts %}
+    <article class="timeline-entry">
+
+      <header>
+        <h2>
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+          </a>
+        </h2>
+      </header>
+
+      <p class="page__meta">
+        <time>{{ post.date | date: "%Y-%m-%d" }}</time>
+      </p>
+
+      <div class="page__content">
+        {{ post.content }}
+      </div>
+
+    </article>
+
+    <hr>
+  {% endfor %}
+</div>
