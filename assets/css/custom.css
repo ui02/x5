@@ -95,7 +95,7 @@ body {
 /* メインコンテンツ */
 #main {
   background-color: #FFFFFF;
-  color: #4B5148;
+  color: #8e8b82;
 }
 
 /* リンク */
@@ -107,7 +107,8 @@ a {
 
 a:hover {
   color: #6B8F71;
-  background-color: #E5E8DF; /* 薄い灰色がかった緑色 */
+  text-decoration-color: #e9dcbe;　/* サンドカラー */
+  text-decoration-style: wavy;
 }
 
 a:visited {
@@ -122,7 +123,7 @@ a:visited {
   color: #4B5148;
 }
 
-/* ヘッダー・ナビゲーション */
+/* ヘッダー・ナビゲーション
 .masthead,
 .musthead__menu,
 .masthead__inner-wrap,
@@ -141,6 +142,7 @@ a:visited {
   color: #6B8F71;
   background-color: #E5E8DF;
 }
+ */
 
 .fas fa-search, {
   color: #6B8F71;
