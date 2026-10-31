@@ -521,3 +521,47 @@ figure.highlight {
     padding: 0.8rem;
   }
 }
+
+/* 年別アーカイブ：画像とカードのサイズ調整 */
+.archive-card {
+  height: 150px;
+  align-items: stretch;
+}
+
+/* 画像エリア */
+.archive-card__image {
+  flex: 0 0 200px;
+  height: 150px;
+  align-self: stretch;
+}
+
+.archive-card__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  aspect-ratio: auto;
+  object-fit: cover;
+  border-radius: 8px 0 0 8px;
+}
+
+/* テキストとの間隔 */
+.archive-card__content {
+  padding: 1rem 1rem 1rem 0.8rem;
+  overflow: hidden;
+}
+
+/* スマホ */
+@media screen and (max-width: 600px) {
+  .archive-card {
+    height: 110px;
+  }
+
+  .archive-card__image {
+    flex-basis: 125px;
+    height: 110px;
+  }
+
+  .archive-card__content {
+    padding: 0.6rem 0.6rem 0.6rem 0.5rem;
+  }
+}
