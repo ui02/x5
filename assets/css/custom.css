@@ -31,18 +31,18 @@ body {
 .taxonomy__index,
 .archive__subtitle,
 .archive__item-title {
-  font-family: "Allison", "Yomogi", "Gaegu display", sans-serif;
+  font-family: "Caveat", "Yomogi", "Gaegu display", sans-serif;
   font-weight: 400;
 }
 
 /* 画像キャプションのフォント */
 .page__content figure figcaption {
-  font-family: "Yomogi", "Allison", "Gaegu display", sans-serif !important;
+  font-family: "Yomogi", "Caveat", "Gaegu display", sans-serif !important;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Allison", sans-serif;
+  font-family: "Caveat", sans-serif;
 }
 
 
@@ -60,24 +60,27 @@ body {
 /* メインコンテンツ */
 #main {
   background-color: #FFFFFF;
-  color: #8e8b82;
+  color: #8e8b82;　/* グレー寄りのカーキ */
 }
 
 /* リンク */
 a {
-  color: #6B8F71;
+  color: #6B8F71 !important;　/* 彩度の低いダークライムグリーン */
   text-decoration: none;
   text-decoration-color: #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 a:hover {
-  color: #6B8F71;
+  color: #6B8F71;  /* 彩度の低いダークライムグリーン */
+  text-decoration: underline;
+  text-decoration-thickness: 0.5em;
   text-decoration-color: #e9dcbe;　/* サンドカラー */
-  text-decoration-style: wavy;
+  text-underline-offset: -0.2em; /* 線の位置。テキストに重なるようにやや上部にする */
+  text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
 }
 
 a:visited {
-  color: #6B8F71;
+  color: #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 /* サイトタイトル・見出し */
@@ -85,7 +88,7 @@ a:visited {
 .site-title:visited,
 .page__title,
 .archive__item-title {
-  color: #4B5148;
+  color: #8e8b82;　/* グレー寄りのカーキ */
 }
 
 /* ヘッダー・ナビゲーション
@@ -100,17 +103,17 @@ a:visited {
 .masthead a,
 .greedy-nav a,
 .greedy-nav a:visited {
-  color: #4B5148;
+  color: #8e8b82;　/* グレー寄りのカーキ
 }
 
 .greedy-nav a:hover {
-  color: #6B8F71;
-  background-color: #E5E8DF;
+  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
+  background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
  */
 
 .fas fa-search, {
-  color: #6B8F71;
+  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 /* ヘッダーをスクロールに追従させる
@@ -141,22 +144,22 @@ a:visited {
 /* ボタン */
 .btn {
   background-color: #FFFFFF;
-  color: #6B8F71;
+  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 .btn:hover {
-  background-color: #6B8F71;
+  background-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
   color: #FFFFFF;
 }
 
 /* フッター */
 .page__footer {
   background-color: #FFFFFF;
-  color: #4B5148;
+  color: #8e8b82;　/* グレー寄りのカーキ
 }
 
 .page__footer a {
-  color: #6B8F71;
+  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 /* コードブロック */
@@ -169,73 +172,73 @@ figure.highlight {
 /* いろいろ */
 .pagination li a.current,.pagination li a.current.disabled {
     color: #fff;
-    background: #E5E8DF;
+    background: #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
 .pagination--pager:hover {
-    background-color: #6B8F71;
+    background-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     color: #fff;
 }
 .search__toggle {
     margin-inline:1rem;height: 2rem;
     border: 0;
     outline: none;
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 .search__toggle:hover {
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 .archive__item-title .ais-Highlight {
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     font-style: normal;
     text-decoration: underline;
-    text-decoration-color: #6B8F71;
+    text-decoration-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 .archive__item-excerpt .ais-Highlight {
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     font-style: normal;
     font-weight: bold;
 }
 .u-url {
     text-decoration: none !important;
-    text-decoration-color: #6B8F71;
+    text-decoration-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 .u-url a:hover {
     text-decoration: none !important;
-    text-decoration-color: #6B8F71;
-    background-color: #E5E8DF;
+    text-decoration-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
+    background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
 
 /* ナビバー？ */
 .nav__title {
-    background-color: #E5E8DF;
-    color: #4B5148;
+    background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
+    color: #8e8b82;　/* グレー寄りのカーキ
     font-style: normal;
 }
 .nav__list a:hover {
     text-decoration: none;
-    text-decoration-color: #4B5148;
-    color: #4B5148;
+    text-decoration-color: #8e8b82;　/* グレー寄りのカーキ
+    color: #8e8b82;　/* グレー寄りのカーキ
 }
 .nav__sub-title a:hover {
-  background-color: #E5E8DF;
+  background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
 
 .nav__items a:hover {
-  background-color: #E5E8DF;
+  background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
 
 .toc .active a {
-    background-color: #F7F5F0;
-    color: #4B5148;
+    background-color: #F7F5F0; /* サイド低めのクリーム色 */
+    color: #8e8b82;　/* グレー寄りのカーキ
 }
 .toc .nav__title {
-    color: #4B5148;
-    background-color: #E5E8DF;
+    color: #8e8b82;　/* グレー寄りのカーキ
+    background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
 .toc {
     background-color: #fff;
-    border: 1px solid #E5E8DF;
+    border: 1px solid #E5E8DF;　/* 薄い灰色がかった緑色 */
 }
 
 .toc__menu a {
@@ -244,25 +247,25 @@ figure.highlight {
 }
 
 .archive__item-title .ais-Highlight {
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     font-style: normal;
     text-decoration: underline;
-    text-decoration-color: #6B8F71;
+    text-decoration-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 .archive__item-title .ais-Highlight {
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     font-style: normal;
     text-decoration: underline;
-    text-decoration-color: #6B8F71;
+    text-decoration-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 .archive__item-excerpt .ais-Highlight {
-    color: #6B8F71;
+    color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     font-style: normal;
     font-weight: bold;
 }
 .page__content a:not(.btn):hover {
     text-decoration: underline;
-    text-decoration-color: #6B8F71;
+    text-decoration-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 .author__avatar a:hover {
