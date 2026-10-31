@@ -604,3 +604,28 @@ figure.highlight {
     flex-basis: 145px;
   }
 }
+
+/* Archive card image size */
+.archive-card {
+  height: 180px;
+}
+
+.archive-card__image {
+  flex: 0 0 300px;
+  height: 180px;
+}
+
+.archive-card__content {
+  padding-left: 16px;
+}
+
+@media screen and (max-width: 600px) {
+  .archive-card {
+    height: 110px;
+  }
+
+  .archive-card__image {
+    flex-basis: 145px;
+    height: 110px;
+  }
+}
