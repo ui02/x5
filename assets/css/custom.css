@@ -311,3 +311,62 @@ figure.highlight {
 .murmur-card {
   font-family: "Caveat", "Yomogi", "Gaegu display", sans-serif;
 }
+
+
+/* =================================
+   年別アーカイブ
+   ================================= */
+
+.archive-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.archive-card__image {
+  flex: 0 0 180px;
+}
+
+.archive-card__image img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.archive-card__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.archive-card__content time {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.archive-card__content h2 {
+  margin: 0.4rem 0;
+  font-size: 1.2rem;
+}
+
+.archive-card__content p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/* スマホ */
+@media screen and (max-width: 600px) {
+  .archive-card {
+    gap: 1rem;
+  }
+
+  .archive-card__image {
+    flex-basis: 110px;
+  }
+
+  .archive-card__content h2 {
+    font-size: 1rem;
+  }
+}
