@@ -16,11 +16,11 @@
 
           <div class="archive-card__content">
             <time datetime="{{ post.date | date_to_xmlschema }}">
-              {{ post.date | date: "%Y-%m-%d" }}
+              {{ post.date | date: "%Y/%m/%d" }}
             </time>
 
             <h2>{{ post.title }}</h2>
-{% comment %}{% endcomment %}
+
             {% if post.tags.size > 0 %}
               <div class="archive-card__tags">
                 {% for tag in post.tags %}
@@ -28,12 +28,12 @@
                 {% endfor %}
               </div>
             {% endif %}
-
+{% comment %}
             {% if post.excerpt %}
               <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
             {% endif %}
           </div>
-
+{% endcomment %}
         </article>
       </a>
     {% endif %}
