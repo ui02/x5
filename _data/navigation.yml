@@ -21,13 +21,13 @@ diary:
     url: /archive/
     children:
       - title: "2026"
-        url: /archive/#2026
+        url: /archive/2026
       - title: "2025"
-        url: /archive/#2025
+        url: /archive/2025
       - title: "2024"
-        url: /archive/#2024
+        url: /archive/2024
       - title: "2023"
-        url: /archive/#2023
+        url: /archive/2023
   - title: ■ Posts by Tag
     url: /tags/
     children:
