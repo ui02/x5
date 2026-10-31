@@ -1,0 +1,33 @@
+{% assign archive_year = include.year | append: "" %}
+
+<div class="archive-year-list">
+  {% assign year_posts = site.posts | where_exp: "post", "post.date | date: '%Y' == archive_year" %}
+
+  {% for post in year_posts %}
+    <article class="archive-card">
+
+      <a href="{{ post.url | relative_url }}" class="archive-card__image">
+        {% if post.header.teaser %}
+          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}">
+        {% elsif post.image %}
+          <img src="{{ post.image | relative_url }}" alt="{{ post.title }}">
+        {% endif %}
+      </a>
+
+      <div class="archive-card__content">
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {{ post.date | date: "%Y-%m-%d" }}
+        </time>
+
+        <h2>
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+
+        {% if post.excerpt %}
+          <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+        {% endif %}
+      </div>
+
+    </article>
+  {% endfor %}
+</div>
