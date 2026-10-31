@@ -565,3 +565,23 @@ figure.highlight {
     padding: 0.6rem 0.6rem 0.6rem 0.5rem;
   }
 }
+/* 画像をさらに横長に */
+.archive-card__image {
+  flex-basis: 240px;
+}
+
+/* テキストとの間隔を狭く */
+.archive-card__content {
+  padding-left: 0.4rem;
+}
+
+/* スマホ */
+@media screen and (max-width: 600px) {
+  .archive-card__image {
+    flex-basis: 145px;
+  }
+
+  .archive-card__content {
+    padding-left: 0.3rem;
+  }
+}
