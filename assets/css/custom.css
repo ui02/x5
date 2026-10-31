@@ -73,9 +73,9 @@ a {
 a:hover {
   color: #6B8F71;  /* 彩度の低いダークライムグリーン */
   text-decoration: underline;
-  text-decoration-thickness: 0.5em;
+  text-decoration-thickness: 0.3em;
   text-decoration-color: #e9dcbe;　/* サンドカラー */
-  text-underline-offset: -0.2em; /* 線の位置。テキストに重なるようにやや上部にする */
+  text-underline-offset: -0.3em; /* 線の位置。テキストに重なるようにやや上部にする */
   text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
 }
 
@@ -96,19 +96,23 @@ a:visited {
 .musthead__menu,
 .masthead__inner-wrap,
 .greedy-nav {
-  background-color: #FFFFFF;
+  background-color: #FFFFFF !important;
   border-bottom: 0px solid #E5E1D7;
 }
 
 .masthead a,
 .greedy-nav a,
 .greedy-nav a:visited {
-  color: #8e8b82;　/* グレー寄りのカーキ
+  color: #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 .greedy-nav a:hover {
-  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
-  background-color: #E5E8DF;　/* 薄い灰色がかった緑色 */
+  color: #6B8F71;  /* 彩度の低いダークライムグリーン */
+  text-decoration: underline;
+  text-decoration-thickness: 0.3em;
+  text-decoration-color: #e9dcbe;　/* サンドカラー */
+  text-underline-offset: -0.3em; /* 線の位置。テキストに重なるようにやや上部にする */
+  text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
 }
  */
 
@@ -116,12 +120,14 @@ a:visited {
   color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
-/* ヘッダーをスクロールに追従させる
-.masthead {
-  position: sticky;
-  top: 0;
-  z-index: 100;
-} */
+/* スマホのみヘッダーを固定 */
+@media screen and (max-width: 767px) {
+  .masthead {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+}
 
 /* ナビゲーションのホバー下線を消す */
 .masthead__menu-item a::before,
