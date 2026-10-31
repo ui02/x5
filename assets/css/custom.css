@@ -370,3 +370,92 @@ figure.highlight {
     font-size: 1rem;
   }
 }
+
+/* =================================
+   年別アーカイブカード
+   ================================= */
+
+.archive-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
+
+/* サムネイル */
+.archive-card__image {
+  flex: 0 0 180px;
+}
+
+.archive-card__image img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+/* 記事情報 */
+.archive-card__content {
+  flex: 1;
+  min-width: 0;
+}
+
+.archive-card__content time {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.archive-card__content h2 {
+  margin: 0.4rem 0;
+  font-family: "Yomogi", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  border: none;
+}
+
+.archive-card__content h2 a {
+  text-decoration: none;
+  border-bottom: none;
+  box-shadow: none;
+}
+
+.archive-card__content p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+}
+
+/* タグ */
+.archive-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 0.5rem;
+}
+
+.archive-card__tag {
+  font-size: 0.75rem;
+  padding: 0.15rem 0.6rem;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  color: #777;
+}
+
+/* スマホ */
+@media screen and (max-width: 600px) {
+  .archive-card {
+    gap: 1rem;
+    padding: 0.8rem;
+  }
+
+  .archive-card__image {
+    flex-basis: 110px;
+  }
+
+  .archive-card__content h2 {
+    font-size: 1rem;
+  }
+}
