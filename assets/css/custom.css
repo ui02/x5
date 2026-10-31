@@ -2,14 +2,17 @@
 ---
 @charset "utf-8";
 
-/* 記事本文のフォントサイズ */
-/* スマホ・通常 */
+/* =================================
+   フォントサイズ
+   ================================= */
+
+/* 記事本文のフォントサイズ：スマホ・通常 */
 .page__content,
 .archive-timeline__item {
   font-size: 14px;
 }
 
-/* PC */
+/* 記事本文のフォントサイズ：PC */
 @media (min-width: 768px) {
   .page__content,
   .archive-timeline__item {
@@ -28,61 +31,23 @@ body {
 .taxonomy__index,
 .archive__subtitle,
 .archive__item-title {
-  font-family: "Caveat", "Yomogi", "Gaegu display", sans-serif;
+  font-family: "Allison", "Yomogi", "Gaegu display", sans-serif;
   font-weight: 400;
 }
 
 /* 画像キャプションのフォント */
 .page__content figure figcaption {
-  font-family: "Yomogi", "Caveat", "Gaegu display", sans-serif !important;
+  font-family: "Yomogi", "Allison", "Gaegu display", sans-serif !important;
 }
 
 /* ナビゲーションメニュー */
 .masthead .greedy-nav a {
-  font-family: "Caveat", sans-serif;
-}
-
-/* トップページのランダム画像 */
-.home-random-image {
-  width: 100%;
-  max-width: 900px;
-  margin: 5rem auto 2rem;
-  text-align: center;
-}
-
-.home-random-image img {
-  display: block;
-  width: 100%;
-  height: auto;
-  max-height: 70vh;
-  object-fit: contain;
-  border-radius: 18px;
-}
-
-/* スマホ：幅100％・中央寄せ */
-@media screen and (max-width: 767px) {
-  .page__content figure.image-gallery {
-    width: 100% !important;
-    max-width: 100%;
-    float: none !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-  }
-
-  .page__content figure.image-gallery img {
-    width: 100%;
-    height: auto;
-  }
-}
-
-/* トップページの Recent Posts を非表示 */
-body.layout--home .archive__subtitle {
-  display: none;
+  font-family: "Allison", sans-serif;
 }
 
 
 /* =================================
-   サイト配色：Natural Beige & Sage
+   配色：Natural Beige & Sage
    ================================= */
 
 /* 背景・基本の文字色 */
@@ -313,3 +278,49 @@ figure.highlight {
 .murmur-card {
   font-family: "Caveat", "Yomogi", "Gaegu display", sans-serif;
 }
+
+/* =================================
+   indexページのランダム画像
+   ================================= */
+
+.home-random-image {
+  width: 100%;
+  max-width: 900px;
+  margin: 5rem auto 2rem;
+  text-align: center;
+}
+
+.home-random-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 70vh;
+  object-fit: contain;
+  border-radius: 18px;
+}
+
+/* スマホ：幅100％・中央寄せ */
+@media screen and (max-width: 767px) {
+  .page__content figure.image-gallery {
+    width: 100% !important;
+    max-width: 100%;
+    float: none !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+
+  .page__content figure.image-gallery img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* =================================
+   アーカイブページ
+   ================================= */
+
+/* Recent Posts を非表示 */
+body.layout--home .archive__subtitle {
+  display: none;
+}
+
