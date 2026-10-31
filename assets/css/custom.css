@@ -89,7 +89,7 @@ body.layout--home .archive__subtitle {
 html,
 body {
   background-color: #FFFFFF;
-  color: #4B5148;
+  color: #8e8b82;　/* グレー寄りのカーキ （#4B5148; ダークオリーブグレー） */
 }
 
 /* メインコンテンツ */
@@ -102,12 +102,12 @@ body {
 a {
   color: #6B8F71;
   text-decoration: none;
-  text-decoration-color: #6B8F71;
+  text-decoration-color: #6B8F71;  /* 彩度の低いダークライムグリーン */
 }
 
 a:hover {
   color: #6B8F71;
-  background-color: #E5E8DF;
+  background-color: #E5E8DF; /* 薄い灰色がかった緑色 */
 }
 
 a:visited {
@@ -196,7 +196,7 @@ a:visited {
 .highlight,
 div.highlighter-rouge,
 figure.highlight {
-  background-color: #F7F5F0;
+  background-color: #F7F5F0; /* サイド低めのクリーム色 */
 }
 
 /* いろいろ */
@@ -272,7 +272,7 @@ figure.highlight {
 }
 
 .toc__menu a {
-    color: #8e8b82;
+    color: #8e8b82;　/* グレー寄りのカーキ */
     font-weight: normal;
 }
 
@@ -466,7 +466,7 @@ figure.highlight {
   align-items: flex-start;
   padding: 1.25rem;
   margin-bottom: 1.25rem;
-  border: 1px solid #ddd;
+  border: 1px solid #8e8b82;
   border-radius: 10px;
 }
 
@@ -491,7 +491,7 @@ figure.highlight {
 
 .archive-card__content time {
   font-size: 0.8rem;
-  color: #888;
+  color: #8e8b82;
 }
 
 .archive-card__content h2 {
@@ -524,9 +524,9 @@ figure.highlight {
 .archive-card__tag {
   font-size: 0.75rem;
   padding: 0.15rem 0.6rem;
-  border: 1px solid #ddd;
+  border: 1px solid #8e8b82;
   border-radius: 20px;
-  color: #777;
+  color: #8e8b82;
 }
 
 /* スマホ */
@@ -713,4 +713,18 @@ figure.highlight {
     flex-basis: 145px;
     height: 110px;
   }
+}
+
+/* Archive card: title and tags spacing */
+.archive-card__content h2 {
+  margin-bottom: 0;
+}
+
+.archive-card__tags {
+  margin-top: 0.2rem;
+}
+
+.archive-card__tag {
+  font-size: 0.65rem;
+  padding: 0.1rem 0.5rem;
 }
