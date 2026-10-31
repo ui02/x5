@@ -20,7 +20,7 @@
             </time>
 
             <h2>{{ post.title }}</h2>
-
+{% comment %}
             {% if post.tags.size > 0 %}
               <div class="archive-card__tags">
                 {% for tag in post.tags %}
@@ -28,7 +28,7 @@
                 {% endfor %}
               </div>
             {% endif %}
-
+{% endcomment %}
             {% if post.excerpt %}
               <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
             {% endif %}
