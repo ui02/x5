@@ -503,3 +503,21 @@ figure.highlight {
 .archive-card-link:hover .archive-card {
   border-color: #aaa;
 }
+
+/* 画像をカードの左端まで広げる */
+.archive-card {
+  padding: 0;
+  overflow: hidden;
+}
+
+/* テキスト側の余白 */
+.archive-card__content {
+  padding: 1.25rem;
+}
+
+/* スマホ */
+@media screen and (max-width: 600px) {
+  .archive-card__content {
+    padding: 0.8rem;
+  }
+}
