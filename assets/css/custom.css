@@ -78,7 +78,16 @@ body,
   border-bottom: 0px solid #E5E1D7;
 }
 
+.fas fa-search, {
+  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
+}
 
+/* フッターの文字色 */
+.page__footer {
+  background-color: #FFFFFF;
+  color: #8e8b82;　/* グレー寄りのカーキ
+}
+   
 /* 基本のリンク */
 a,
 a:visited,
@@ -90,10 +99,6 @@ a:active {
 a:hover {
   background-color: #FFFFFF !important;
   text-decoration: underline;
-  text-decoration-thickness: 0.2em;
-  text-decoration-color: #e9dcbe;　/* サンドカラー */
-  text-underline-offset: -0.5em; /* 線の位置。テキストに重なるようにやや上部にする */
-  text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
 }
 
 /* ヘッダー・ナビゲーションのリンク色 */
@@ -106,13 +111,9 @@ a:hover {
 .greedy-nav a:hover {
   color: #6B8F71;  /* 彩度の低いダークライムグリーン */
   text-decoration: underline;
-  text-decoration-thickness: 0.3em;
-  text-decoration-color: #e9dcbe;　/* サンドカラー */
-  text-underline-offset: -0.3em; /* 線の位置。テキストに重なるようにやや上部にする */
-  text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
 }
 
-/* ナビゲーションのホバー下線を消す */
+/* ナビゲーションのホバー下線を消す
 .masthead__menu-item a::before,
 .masthead__menu-item a::after {
   display: none !important;
@@ -124,11 +125,7 @@ a:hover {
   border-bottom: none !important;
   box-shadow: none !important;
 }
-
-
-.fas fa-search, {
-  color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
-}
+ */
 
 /* スマホのみヘッダーを固定 */
 @media screen and (max-width: 767px) {
@@ -138,7 +135,6 @@ a:hover {
     z-index: 100;
   }
 }
-
 
 
 /* サイドバー */
@@ -157,14 +153,20 @@ a:hover {
   color: #FFFFFF;
 }
 
-/* フッター */
-.page__footer {
-  background-color: #FFFFFF;
-  color: #8e8b82;　/* グレー寄りのカーキ
+/* 記事最下部のタグ類 */
+.page__taxonomy-item {
+  display: inline-block;
+  margin-inline-end: 0px;margin-bottom: 0px;
+  padding: 0px 0px;
+  text-decoration: none;
+  border: 0px solid #afa58f;
+  border-radius: 0px
 }
 
+/* フッターのリンク色 */
 .page__footer a {
   color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
+  font-weight: normal;
 }
 
 /* コードブロック */
@@ -183,6 +185,7 @@ figure.highlight {
     background-color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
     color: #fff;
 }
+
 .search__toggle {
     margin-inline:1rem;height: 2rem;
     border: 0;
