@@ -585,3 +585,22 @@ figure.highlight {
     padding-left: 0.3rem;
   }
 }
+
+/* Archive card */
+.archive-card {
+  gap: 0;
+}
+
+.archive-card__image {
+  flex: 0 0 300px;
+}
+
+.archive-card__content {
+  padding-left: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .archive-card__image {
+    flex-basis: 145px;
+  }
+}
