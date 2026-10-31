@@ -52,38 +52,16 @@ body {
 
 /* 背景・基本の文字色 */
 html,
-body {
-  background-color: #FFFFFF;
-  color: #8e8b82;　/* グレー寄りのカーキ （#4B5148; ダークオリーブグレー） */
-}
-
-/* メインコンテンツ */
-#main {
-  background-color: #FFFFFF;
+body,
+#main,
+.masthead,
+.sidebar,
+.page__footer {
+  background-color: #FFFFFF !important;
   color: #8e8b82;　/* グレー寄りのカーキ */
 }
 
-/* リンク */
-a {
-  color: #6B8F71 !important;　/* 彩度の低いダークライムグリーン */
-  text-decoration: none;
-  text-decoration-color: #6B8F71;  /* 彩度の低いダークライムグリーン */
-}
-
-a:hover {
-  color: #6B8F71;  /* 彩度の低いダークライムグリーン */
-  text-decoration: underline;
-  text-decoration-thickness: 0.3em;
-  text-decoration-color: #e9dcbe;　/* サンドカラー */
-  text-underline-offset: -0.3em; /* 線の位置。テキストに重なるようにやや上部にする */
-  text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
-}
-
-a:visited {
-  color: #6B8F71;  /* 彩度の低いダークライムグリーン */
-}
-
-/* サイトタイトル・見出し */
+/* サイトタイトル・見出しの文字色 */
 .site-title,
 .site-title:visited,
 .page__title,
@@ -91,15 +69,34 @@ a:visited {
   color: #8e8b82;　/* グレー寄りのカーキ */
 }
 
-/* ヘッダー・ナビゲーション
+/* ヘッダー・ナビゲーションの文字色 */
 .masthead,
-.musthead__menu,
+.masthead__menu,
 .masthead__inner-wrap,
 .greedy-nav {
   background-color: #FFFFFF !important;
   border-bottom: 0px solid #E5E1D7;
 }
 
+
+/* 基本のリンク */
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #6B8F71 !important;　/* 彩度の低いダークライムグリーン */
+}
+
+a:hover {
+  background-color: #FFFFFF !important;
+  text-decoration: underline;
+  text-decoration-thickness: 0.2em;
+  text-decoration-color: #e9dcbe;　/* サンドカラー */
+  text-underline-offset: -0.5em; /* 線の位置。テキストに重なるようにやや上部にする */
+  text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
+}
+
+/* ヘッダー・ナビゲーションのリンク色 */
 .masthead a,
 .greedy-nav a,
 .greedy-nav a:visited {
@@ -114,7 +111,20 @@ a:visited {
   text-underline-offset: -0.3em; /* 線の位置。テキストに重なるようにやや上部にする */
   text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
 }
- */
+
+/* ナビゲーションのホバー下線を消す */
+.masthead__menu-item a::before,
+.masthead__menu-item a::after {
+  display: none !important;
+  content: none !important;
+}
+
+.masthead__menu-item a:hover {
+  text-decoration: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
 
 .fas fa-search, {
   color:  #6B8F71;  /* 彩度の低いダークライムグリーン */
@@ -129,18 +139,7 @@ a:visited {
   }
 }
 
-/* ナビゲーションのホバー下線を消す */
-.masthead__menu-item a::before,
-.masthead__menu-item a::after {
-  display: none !important;
-  content: none !important;
-}
 
-.masthead__menu-item a:hover {
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-}
 
 /* サイドバー */
 .sidebar {
