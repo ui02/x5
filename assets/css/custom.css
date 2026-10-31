@@ -586,7 +586,7 @@ figure.highlight {
 
 /* カードにマウスを乗せたとき */
 .archive-card-link:hover .archive-card {
-  border-color: #aaa;
+  background-color: #F7F5F0; /* サイド低めのクリーム色 */
 }
 
 /* 画像をカードの左端まで広げる */
