@@ -30,6 +30,11 @@
             </div>
           {% endif %}
 
+          {% if post.excerpt %}
+            <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+          {% endif %}
+        </div>
+
       </article>
     {% endif %}
   {% endfor %}
