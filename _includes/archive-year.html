@@ -28,12 +28,12 @@
                 {% endfor %}
               </div>
             {% endif %}
-{% comment %}
+
             {% if post.excerpt %}
               <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
             {% endif %}
           </div>
-{% endcomment %}
+
         </article>
       </a>
     {% endif %}
